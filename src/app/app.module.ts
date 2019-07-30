@@ -7,6 +7,8 @@ import { StartComponent } from './start/start.component';
 import { MainComponent } from './main/main.component';
 import { FriendsComponent } from './friends/friends.component';
 import { FundingComponent } from './funding/funding.component';
+import { GraphQLModule } from './graphql.module';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { FundingComponent } from './funding/funding.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    GraphQLModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

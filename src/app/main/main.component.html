@@ -217,13 +217,13 @@
     <div class="row justify-content-center mb-lg-5">
       <div class="col col-lg-10 text-center">
         <!-- Subtitle -->
-        <h6 class="header-pretitle text-muted">Meet Betoken</h6>
+        <h2 class="header-pretitle text-muted">Meet Betoken</h2>
         <!-- Title -->
         <h1 class="display-1 d-none d-lg-block text-white mb-5">
-          The crowd-powered crypto asset management protocol
+          Crowd-powered asset management protocol
         </h1>
         <h1 class="display-4 d-block d-lg-none text-white mb-5">
-          The crowd-powered crypto asset management protocol
+          Crowd-powered asset management protocol
         </h1>
         <a class="btn btn-success btn-lg mb-3 py-3 px-5" href="/start">Get started</a>
         <p class="text-muted small">Already using Betoken? <a class="text-white"
@@ -251,13 +251,35 @@
                 <span class="d-none d-lg-inline-block">Try it</span> <i class="fe fe-external-link"></i></a></p>
           </div>
           <div class="card-body">
-            <div class="row">
-              <div class="col text-center">
-                <p class="text-secondary mb-0"><i class="fe fe-info mr-2"></i>Betoken's performances will pop up here on
-                  Thursday, August 1, 2019.</p>
+            <div class="row align-items-center">
+              <div class="col-12 col-lg-3 mb-4 mb-lg-0">
+                <div class="row">
+
+                  <div class="col-auto">
+
+                    <!-- Icon -->
+                    <span class="h2 fe fe-shield text-muted mb-0"></span>
+
+                  </div>
+                  <div class="col">
+
+                    <!-- Title -->
+                    <h6 class="card-title text-uppercase text-muted mb-2">
+                      Assets Under Management
+                    </h6>
+
+                    <!-- Heading -->
+                    <span class="sortino-ratio h2 mb-0">
+                      <div class="spinner-grow spinner-grow-sm" role="status" *ngIf="isLoading">
+                        <span class="sr-only">Loading...</span>
+                      </div>
+                      <div *ngIf="!isLoading">
+                        ${{aum.toFormat(2)}}
+                      </div>
+                    </span>
+                  </div>
+                </div>
               </div>
-            </div>
-            <div class="row align-items-center d-none">
               <div class="col-12 col-lg-3 mb-4 mb-lg-0">
                 <div class="row">
                   <div class="col-auto">
@@ -275,9 +297,12 @@
 
                     <!-- Heading -->
                     <span class="1-month-roi h2 mb-0">
-                      <div class="spinner-grow spinner-grow-sm" role="status">
+                      <div class="spinner-grow spinner-grow-sm" role="status" *ngIf="isLoading">
                         <span class="sr-only">Loading...</span>
                       </div>
+                      <span *ngIf="!isLoading">
+                        {{roiOneMonth.toFormat(2)}}
+                      </span>
                     </span>
                     <span class="h2 mb-0 mr-1">
                       %
@@ -303,38 +328,15 @@
 
                     <!-- Heading -->
                     <span class="inception-roi h2 mb-0">
-                      <div class="spinner-grow spinner-grow-sm" role="status">
+                      <div class="spinner-grow spinner-grow-sm" role="status" *ngIf="isLoading">
                         <span class="sr-only">Loading...</span>
                       </div>
+                      <span *ngIf="!isLoading">
+                        {{roiSinceInception.toFormat(2)}}
+                      </span>
                     </span>
                     <span class="h2 mb-0 mr-1">
                       %
-                    </span>
-
-                  </div>
-                </div>
-              </div>
-              <div class="col-12 col-lg-3 mb-4 mb-lg-0">
-                <div class="row">
-
-                  <div class="col-auto">
-
-                    <!-- Icon -->
-                    <span class="h2 fe fe-shield text-muted mb-0"></span>
-
-                  </div>
-                  <div class="col">
-
-                    <!-- Title -->
-                    <h6 class="card-title text-uppercase text-muted mb-2">
-                      Sortino ratio
-                    </h6>
-
-                    <!-- Heading -->
-                    <span class="sortino-ratio h2 mb-0">
-                      <div class="spinner-grow spinner-grow-sm" role="status">
-                        <span class="sr-only">Loading...</span>
-                      </div>
                     </span>
 
                   </div>
@@ -353,17 +355,17 @@
 
                     <!-- Title -->
                     <h6 class="card-title text-uppercase text-muted mb-2">
-                      Standard deviation
+                      Number of Managers
                     </h6>
 
                     <!-- Heading -->
                     <span class="std h2 mb-0">
-                      <div class="spinner-grow spinner-grow-sm" role="status">
+                      <div class="spinner-grow spinner-grow-sm" role="status" *ngIf="isLoading">
                         <span class="sr-only">Loading...</span>
                       </div>
-                    </span>
-                    <span class="h2 mb-0 mr-1">
-                      %
+                      <span *ngIf="!isLoading">
+                        {{numOfManagers.toFormat(0)}}
+                      </span>
                     </span>
                   </div>
                 </div>
@@ -532,7 +534,7 @@
           <a class="nav-link text-secondary lead py-4" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4"
             role="tab" aria-controls="v-pills-4" aria-selected="false">
             <span class="d-flex d-lg-none">4</span>
-            <span class="d-none d-lg-flex">50+ Assets</span>
+            <span class="d-none d-lg-flex">70+ Assets</span>
           </a>
           <a class="nav-link text-secondary lead py-4" id="v-pills-5-tab" data-toggle="pill" href="#v-pills-5"
             role="tab" aria-controls="v-pills-5" aria-selected="false">
@@ -577,9 +579,9 @@
           <div class="tab-pane fade" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab">
             <img class="d-block w-50 mx-auto mb-4" src="assets/img/illustrations/undraw_digital_currency_qpak.svg"
               alt="undraw_digital_currency_qpak">
-            <h3 class="h2 d-block d-lg-none">50+ Assets</h3>
+            <h3 class="h2 d-block d-lg-none">70+ Assets</h3>
             <p class="lead text-secondary">
-              By connecting your capital to Betoken protocol, you get a direct exposure to ETH, WBTC, BAT, MKR and 50+
+              By connecting your capital to Betoken protocol, you get direct exposure to ETH, WBTC, BAT, MKR and 70+
               ERC20 tokens.
             </p>
           </div>
