@@ -6,8 +6,7 @@ import { BigNumber } from 'bignumber.js';
 
 @Component({
   selector: 'app-main',
-  templateUrl: './main.component.html',
-  styleUrls: ['./main.component.scss']
+  templateUrl: './main.component.html'
 })
 export class MainComponent extends ApolloEnabled implements OnInit {
   isLoading: Boolean;
@@ -44,7 +43,7 @@ export class MainComponent extends ApolloEnabled implements OnInit {
       })
       .valueChanges.subscribe(({ data, loading }) => {
         this.isLoading = loading;
-        
+
         let fund = data['fund'];
         this.roiOneMonth = new BigNumber(fund.aum).div(fund.totalFundsAtPhaseStart).minus(1).times(100);
         this.roiSinceInception = new BigNumber(fund.sharesPrice).minus(1).times(100);
