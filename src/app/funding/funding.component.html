@@ -1,3 +1,32 @@
+<app-header>
+  <div class="container">
+    <div class="row justify-content-center mb-5 mb-lg-3">
+      <div class="col col-lg-8 text-center">
+        <!-- Subtitle -->
+        <h6 class="header-pretitle text-muted">Betoken</h6>
+        <!-- Title -->
+        <h1 class="display-2 d-none d-lg-block text-white mb-5" i18n="@@headerFundingTitle">
+          Community Funding
+        </h1>
+        <h1 class="display-4 d-block d-lg-none text-white mb-5" i18n="@@headerFundingTitleMobile">
+          Community Funding
+        </h1>
+        <p class="text-muted lead mb-5" i18n="@@headerFundingText">This is a <a
+            href="https://etherscan.io/address/0x332d87209f7c8296389c307eae170c2440830a47" target="_blank">general
+            fund</a> for the Betoken's ongoing development campaign. Donations into this fund are always welcome, very
+          appreciated, and a quick and easy way to get yourself or your company on to the <a href="/friends">friends
+            of Betoken</a> page.</p>
+      </div>
+    </div> <!-- / .row -->
+    <div class="row align-items-center no-gutters mb-7 mb-lg-5">
+      <div class="col text-center">
+        <!-- Title -->
+        <a href="/funding/#donationWidget" class="btn btn-success btn-lg" i18n="@@ctaDonate">Donate to Betoken</a>
+      </div>
+    </div>
+  </div> <!-- / .container -->
+</app-header>
+
 <!-- MAIN CONTENT
     ================================================== -->
 <div class="main-content">
@@ -39,8 +68,9 @@
                     <h2 i18n="@@fundingChooseYourRewardSubtitle1">
                       Pledge $10 or more
                     </h2>
-                    <p class="text-muted mb-0" i18n="@@fundingChooseYourRewardFriendsPage"><i class="fe fe-check text-success mr-2"></i>Your name in the <a
-                        href="/friends">friends of Betoken</a> page (if desired).</p>
+                    <p class="text-muted mb-0" i18n="@@fundingChooseYourRewardFriendsPage"><i
+                        class="fe fe-check text-success mr-2"></i>Your name in the <a href="/friends">friends of
+                        Betoken</a> page (if desired).</p>
                   </div>
                   <div class="col-auto">
                     <a class="btn btn-sm btn-white"
@@ -64,14 +94,20 @@
                     <h2 i18n="@@fundingChooseYourRewardSubtitle3">
                       Pledge $100 or more
                     </h2>
-                    <p class="text-muted" i18n="@@fundingChooseYourRewardFriendsPage"><i class="fe fe-check text-success mr-2"></i>Your name in the <a
-                        href="/friends">friends of Betoken</a> page (if desired).</p>
-                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i><ng-container i18n="@@fundingChooseYourRewardThankYouToken">Receive a special "Thank you"
-                      token that unlocks a special badge on the <a href="https://betoken.fund/portal/#/rankings"
-                        target="_blank">Ranking Managers</a> page. If you are or plan to be a Betoken fund manager,
-                      everyone will be able to see that you're a <strong>Betoken Champion</strong> in the managers
-                      ranking page.</ng-container></p>
-                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i><ng-container i18n="@@fundingChooseYourRewardEarlyAccess">Early access to new features.</ng-container></p>
+                    <p class="text-muted" i18n="@@fundingChooseYourRewardFriendsPage"><i
+                        class="fe fe-check text-success mr-2"></i>Your name in the <a href="/friends">friends of
+                        Betoken</a> page (if desired).</p>
+                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardThankYouToken">Receive a special "Thank you"
+                        token that unlocks a special badge on the <a href="https://betoken.fund/portal/#/rankings"
+                          target="_blank">Ranking Managers</a> page. If you are or plan to be a Betoken fund manager,
+                        everyone will be able to see that you're a <strong>Betoken Champion</strong> in the managers
+                        ranking page.</ng-container>
+                    </p>
+                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardEarlyAccess">Early access to new features.
+                      </ng-container>
+                    </p>
                   </div>
                   <div class="col-auto">
                     <a class="btn btn-sm btn-white"
@@ -95,17 +131,27 @@
                     <h2 i18n="@@fundingChooseYourRewardSubtitle5">
                       Pledge $500 or more
                     </h2>
-                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i><ng-container i18n="@@fundingChooseYourRewardFriendsPage">Your name and logo in the
-                      <strong>Companies</strong> or <strong>Individuals</strong> of the <a href="/friends">friends of Betoken</a> page (if
-                      desired).</ng-container></p>
-                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i><ng-container i18n="@@fundingChooseYourRewardThankYouToken">Receive a special "Thank you"
-                      token that unlocks a special badge on the <a href="https://betoken.fund/portal/#/rankings"
-                        target="_blank">Ranking Managers</a> page. If you are or plan to be a Betoken fund manager,
-                      everyone will be able to see that you're a <strong>Betoken Champion</strong> in the managers
-                      ranking page.</ng-container></p>
-                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i><ng-container i18n="@@fundingChooseYourRewardEarlyAccess">Early access to new features.</ng-container></p>
-                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i><ng-container i18n="@@fundingChooseYourRewardTwtMention">Personal mention on Twitter and on
-                      social media by the Betoken team (if desired).</ng-container></p>
+                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardFriendsPage">Your name and logo in the
+                        <strong>Companies</strong> or <strong>Individuals</strong> of the <a href="/friends">friends of
+                          Betoken</a> page (if
+                        desired).</ng-container>
+                    </p>
+                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardThankYouToken">Receive a special "Thank you"
+                        token that unlocks a special badge on the <a href="https://betoken.fund/portal/#/rankings"
+                          target="_blank">Ranking Managers</a> page. If you are or plan to be a Betoken fund manager,
+                        everyone will be able to see that you're a <strong>Betoken Champion</strong> in the managers
+                        ranking page.</ng-container>
+                    </p>
+                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardEarlyAccess">Early access to new features.
+                      </ng-container>
+                    </p>
+                    <p class="text-muted"><i class="fe fe-check text-success mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardTwtMention">Personal mention on Twitter and on
+                        social media by the Betoken team (if desired).</ng-container>
+                    </p>
                   </div>
                   <div class="col-auto">
                     <a class="btn btn-sm btn-white"
@@ -124,22 +170,32 @@
                   </div>
                   <div class="col-12 col-lg mt-4 mt-lg-0 ml-n2 mb-4 mb-lg-0 text-center text-lg-left">
                     <!-- Subtitle -->
-                    <h6 class="header-pretitle text-muted" i18n="@@fundingChooseYourRewardSubtitle6">Top 10 supporters • Hall of Fame</h6>
+                    <h6 class="header-pretitle text-muted" i18n="@@fundingChooseYourRewardSubtitle6">Top 10 supporters •
+                      Hall of Fame</h6>
                     <!-- Title -->
                     <h2 class="text-gold" i18n="@@fundingChooseYourRewardSubtitle7">
                       Pledge $1,000 or more
                     </h2>
-                    <p class="text-muted"><i class="fe fe-star text-gold mr-2"></i><ng-container i18n="@@fundingChooseYourRewardFriendsPage">Your name in the <strong>Hall of
-                        Fame</strong> section of the <a href="/friends">friends of Betoken</a> page (if desired).</ng-container>
+                    <p class="text-muted"><i class="fe fe-star text-gold mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardFriendsPage">Your name in the <strong>Hall of
+                          Fame</strong> section of the <a href="/friends">friends of Betoken</a> page (if desired).
+                      </ng-container>
                     </p>
-                    <p class="text-muted"><i class="fe fe-star text-gold mr-2"></i><ng-container i18n="@@fundingChooseYourRewardThankYouToken">Receive a special "Thank you"
-                      token that unlocks a special badge on the <a href="https://betoken.fund/portal/#/rankings"
-                        target="_blank">Ranking Managers</a> page. If you are or plan to be a Betoken fund manager,
-                      everyone will be able to see that you're a <strong>Betoken Champion</strong> in the managers
-                      ranking page.</ng-container></p>
-                    <p class="text-muted"><i class="fe fe-star text-gold mr-2"></i><ng-container i18n="@@fundingChooseYourRewardEarlyAccess">Early access to new features.</ng-container></p>
-                    <p class="text-muted"><i class="fe fe-star text-gold mr-2"></i><ng-container i18n="@@fundingChooseYourRewardTwtMention">Personal mention on Twitter and on
-                      social media by the Betoken team (if desired).</ng-container></p>
+                    <p class="text-muted"><i class="fe fe-star text-gold mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardThankYouToken">Receive a special "Thank you"
+                        token that unlocks a special badge on the <a href="https://betoken.fund/portal/#/rankings"
+                          target="_blank">Ranking Managers</a> page. If you are or plan to be a Betoken fund manager,
+                        everyone will be able to see that you're a <strong>Betoken Champion</strong> in the managers
+                        ranking page.</ng-container>
+                    </p>
+                    <p class="text-muted"><i class="fe fe-star text-gold mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardEarlyAccess">Early access to new features.
+                      </ng-container>
+                    </p>
+                    <p class="text-muted"><i class="fe fe-star text-gold mr-2"></i>
+                      <ng-container i18n="@@fundingChooseYourRewardTwtMention">Personal mention on Twitter and on
+                        social media by the Betoken team (if desired).</ng-container>
+                    </p>
                   </div>
                   <div class="col-auto">
                     <a class="btn btn-sm btn-white"
@@ -168,21 +224,26 @@
           What this fund is
         </h2>
 
-        <p class="lead" i18n="@@fundingWhatThisFundIsText1">This is the general development fund intended to cover costs related to Betoken’s development.
+        <p class="lead" i18n="@@fundingWhatThisFundIsText1">This is the general development fund intended to cover costs
+          related to Betoken’s development.
           While the team may not have visibility on every particular need that will arise, all donated funds will be
           used towards Betoken’s technical development and new security audits.</p>
 
-        <p class="lead" i18n="@@fundingWhatThisFundIsText2">This fund is managed entirely by the Betoken Technical Council, and all spending decisions will
+        <p class="lead" i18n="@@fundingWhatThisFundIsText2">This fund is managed entirely by the Betoken Technical
+          Council, and all spending decisions will
           be made public. The funds are kept in a Multisig wallet, meaning no spending can occur without at least 2
           council members actively signing the transaction.</p>
 
-        <p class="lead" i18n="@@fundingWhatThisFundIsText3">While the main goal is funding the ongoing professional security audit, you'll find below some
+        <p class="lead" i18n="@@fundingWhatThisFundIsText3">While the main goal is funding the ongoing professional
+          security audit, you'll find below some
           other examples of where proceeds of this fund might be allocated (by no means exhaustive and subject to
           change):</p>
 
         <ul>
-          <li class="lead" i18n="@@fundingWhatThisFundIsText4">Service fees related to build and deployment infrastructure</li>
-          <li class="lead" i18n="@@fundingWhatThisFundIsText5">Contributing to a second security audit or other specific development work if required</li>
+          <li class="lead" i18n="@@fundingWhatThisFundIsText4">Service fees related to build and deployment
+            infrastructure</li>
+          <li class="lead" i18n="@@fundingWhatThisFundIsText5">Contributing to a second security audit or other specific
+            development work if required</li>
           <li class="lead" i18n="@@fundingWhatThisFundIsText6">Legal support as and when needed</li>
         </ul>
 
@@ -202,33 +263,40 @@
           because we’re excited about cryptoeconomics, governance system and the possibilities that they offer.
         </p>
 
-        <p class="lead" i18n="@@fundingPrinciplesText2">Unlike the vast majority of blockchain projects, Betoken's development is not motivated by greed
+        <p class="lead" i18n="@@fundingPrinciplesText2">Unlike the vast majority of blockchain projects, Betoken's
+          development is not motivated by greed
           for either its developers or early adopters. As a measure of this, the project has pledged that:</p>
 
         <ul>
           <li class="lead" i18n="@@fundingPrinciplesText3">Betoken will not engage in an ICO.</li>
-          <li class="lead" i18n="@@fundingPrinciplesText4">Betoken's launch will be pre-announced, open, and fair. There will be no pre-minted coins or
+          <li class="lead" i18n="@@fundingPrinciplesText4">Betoken's launch will be pre-announced, open, and fair. There
+            will be no pre-minted coins or
             any other funny business. The only avantage of the early users are for those who participate as beta tester
             of our Rinkeby Testnet app. They'll be able to redeem their testnet Kairo tokens on Mainnet.</li>
-          <li class="lead" i18n="@@fundingPrinciplesText5">In order to providing funding for its maintenance and future development on Mainnet, Betoken
+          <li class="lead" i18n="@@fundingPrinciplesText5">In order to providing funding for its maintenance and future
+            development on Mainnet, Betoken
             will mint Betoken Shares and send them to the current development team. The amount will be equal to 0.1% of
             the current Betoken Shares total supply, and it will occur at the end of every investment cycle. <a
               href="https://betoken.gitbook.io/docs/connect-your-capital/what-is-the-fees-structure"
               target="_blank">Find out more about Betoken's fees structure</a>.</li>
-          <li class="lead" i18n="@@fundingPrinciplesText6">Betoken developers will not seek or accept any capital that comes with the expectation of
+          <li class="lead" i18n="@@fundingPrinciplesText6">Betoken developers will not seek or accept any capital that
+            comes with the expectation of
             future monetary return.</li>
-          <li class="lead" i18n="@@fundingPrinciplesText7">Betoken will not seek or accept any capital that comes with the expectation of being able to
+          <li class="lead" i18n="@@fundingPrinciplesText7">Betoken will not seek or accept any capital that comes with
+            the expectation of being able to
             unduly influence Betoken’s decision-making process.</li>
         </ul>
 
-        <p class="lead" i18n="@@fundingPrinciplesText8">Thus far, Betoken’s development has been mostly a part-time effort, with <a
-            href="/#openMovement">volunteers</a> contributing their code, design, ideas on an ad-hoc basis. This will
+        <p class="lead" i18n="@@fundingPrinciplesText8">Thus far, Betoken’s development has been mostly a part-time
+          effort, with <a href="/#openMovement">volunteers</a> contributing their code, design, ideas on an ad-hoc
+          basis. This will
           continue in any event, but the reality is that a project of Betoken’s scope would be greatly helped by having
           a source of funding. This would allow Betoken to reach its potential more quickly, more reliably, with better
           supporting infrastructure, and with a far greater chance of success competing against (or co-existing with)
           well-funded blockchain projects.</p>
 
-        <p class="lead" i18n="@@fundingPrinciplesText9">To keep Betoken open and free from controlling influences, the project will attempt to rely 100%
+        <p class="lead" i18n="@@fundingPrinciplesText9">To keep Betoken open and free from controlling influences, the
+          project will attempt to rely 100%
           on community donations for its funding needs before the mainnet release. We ask any person, corporate entity
           or institution who sees potential in Betoken protocol to consider donating to the project, and we hope that
           the vibrant cryptocurrency community will help Betoken in achieving its goal of providing an open-source,
@@ -236,39 +304,47 @@
 
         <h2 class="mt-5" i18n="@@fundingFriendsOfBetokenTitle">Friends of Betoken</h2>
 
-        <p class="lead" i18n="@@fundingFriendsOfBetokenText1">We believe that any donors, large or small, should be given recognition for their contribution.
+        <p class="lead" i18n="@@fundingFriendsOfBetokenText1">We believe that any donors, large or small, should be
+          given recognition for their contribution.
           Any individual donor who wishes to be listed on our <a href="/friends">Friends of Betoken</a> page will be
           listed, and any corporate or institutional Donors making a significant contribution to Betoken's development
           will have their logo displayed (if desired).</p>
 
-        <p class="lead" i18n="@@fundingFriendsOfBetokenText2">We are also happy to accept recurring sponsorships and acknowledge your support prominently on
+        <p class="lead" i18n="@@fundingFriendsOfBetokenText2">We are also happy to accept recurring sponsorships and
+          acknowledge your support prominently on
           our Friends of Betoken page. However, as per our pledges above, we cannot accept sponsorships or donations
           predicated on being able to unduly influence Betoken’s direction.</p>
 
         <h2 class="mt-5" i18n="@@fundingDonationFormatsTile">Donation Format</h2>
 
-        <p class="lead" i18n="@@fundingDonationFormatsText1">As in all things Betoken, we want to ensure that the funding process remains as transparent as
+        <p class="lead" i18n="@@fundingDonationFormatsText1">As in all things Betoken, we want to ensure that the
+          funding process remains as transparent as
           all other aspects of the project. To this end, Betoken will actively seek community funding via <a
             href="https://etherscan.io/address/0x332d87209f7c8296389c307eae170c2440830a47" target="_blank">a general
             fund</a>, proceeds of which will be allocated by Betoken’s technical council according to project need.</p>
 
-        <p class="lead" i18n="@@fundingDonationFormatsText2">The general fund will be allocated by the Betoken developers as needs are identified, with all
+        <p class="lead" i18n="@@fundingDonationFormatsText2">The general fund will be allocated by the Betoken
+          developers as needs are identified, with all
           spending decisions posted and made public. Betoken's developers will update the community on progress.</p>
 
-        <p class="lead" i18n="@@fundingDonationFormatsText3">Since Betoken doesn’t currently have a foundation, general donations will go into the
+        <p class="lead" i18n="@@fundingDonationFormatsText3">Since Betoken doesn’t currently have a foundation, general
+          donations will go into the
           developers' multisig wallet. This may change as Betoken’s <a
             href="https://betoken.gitbook.io/docs/govern/what-is-the-upgrade-governance" target="_blank">governance
             model</a> allows the community to choose another developer team.</p>
 
-        <p class="lead" i18n="@@fundingDonationFormatsText4">Donors and sponsors should understand that the funds donated will always go towards the
+        <p class="lead" i18n="@@fundingDonationFormatsText4">Donors and sponsors should understand that the funds
+          donated will always go towards the
           advancement of Betoken.</p>
 
-        <p class="lead" i18n="@@fundingDonationFormatsText5">Developers will provide weekly updates on progress via the main social media channels of
+        <p class="lead" i18n="@@fundingDonationFormatsText5">Developers will provide weekly updates on progress via the
+          main social media channels of
           Betoken.</p>
 
         <h2 class="mt-5" i18n="@@fundingDisclaimerTitle">Disclaimer</h2>
 
-        <p class="lead" i18n="@@fundingDisclaimerText1">The Betoken project is still very young and is still experimenting with the details of its
+        <p class="lead" i18n="@@fundingDisclaimerText1">The Betoken project is still very young and is still
+          experimenting with the details of its
           funding model. Some or all of the details above, and even our overall approach may change as the project
           evolves, however we will always strive to ensure that our funding model reflects the principles of openness
           and fairness on which the project was founded.</p>
@@ -286,7 +362,8 @@
             <p class="text-dark lead">
               3EZuuufsK6oKMSL7ahqs3EudtxrmqQ1kdz
             </p>
-            <p class="text-muted mb-0" i18n="@@fundingBtcAddressText1">Funds donated in Bitcoin will be converted to DAI shortly after for simplicity of
+            <p class="text-muted mb-0" i18n="@@fundingBtcAddressText1">Funds donated in Bitcoin will be converted to DAI
+              shortly after for simplicity of
               accounting.</p>
           </div>
         </div>
@@ -301,7 +378,8 @@
             <p class="text-dark lead">
               0x332D87209f7c8296389C307eAe170c2440830A47
             </p>
-            <p class="text-muted mb-0" i18n="@@fundingEthAddressText1">Funds donated in Ethereum will be converted to DAI shortly after for simplicity
+            <p class="text-muted mb-0" i18n="@@fundingEthAddressText1">Funds donated in Ethereum will be converted to
+              DAI shortly after for simplicity
               of accounting.</p>
           </div>
         </div>
@@ -316,12 +394,14 @@
             <p class="text-dark lead">
               t1KDTErgNdrx1Uv9r5p4Xg7suYyiiUy7Bx8
             </p>
-            <p class="text-muted mb-0" i18n="@@fundingZecAddressText1">Funds donated in Zcash will be converted to DAI shortly after for simplicity of
+            <p class="text-muted mb-0" i18n="@@fundingZecAddressText1">Funds donated in Zcash will be converted to DAI
+              shortly after for simplicity of
               accounting.</p>
           </div>
         </div>
         <a class="d-block text-center" href="https://etherscan.io/address/0x332d87209f7c8296389c307eae170c2440830a47"
-          target="_blank" i18n="@@fundingCommunityFundAddress">Community Fund's address<i class="fe fe-arrow-right ml-2"></i></a>
+          target="_blank" i18n="@@fundingCommunityFundAddress">Community Fund's address<i
+            class="fe fe-arrow-right ml-2"></i></a>
 
       </div>
     </div> <!-- / .row -->

@@ -1,3 +1,26 @@
+<app-header>
+  <div class="container">
+    <div class="row justify-content-center mb-lg-5">
+      <div class="col col-lg-10 text-center">
+        <!-- Subtitle -->
+        <h2 class="header-pretitle text-muted" i18n="@@headerHomePretitle">Meet Betoken</h2>
+        <!-- Title -->
+        <h1 class="display-1 d-none d-lg-block text-white mb-5" i18n="@@headerHomeTitle">
+          Crowd-powered asset management protocol
+        </h1>
+        <h1 class="display-4 d-block d-lg-none text-white mb-5" i18n="@@headerHomeTitleMobile">
+          Crowd-powered asset management protocol
+        </h1>
+        <a class="btn btn-success btn-lg mb-3 py-3 px-5" href="/start" i18n="@@ctaGetStarted">Get started</a>
+        <p class="text-muted small">
+          <ng-container i18n="@@headerHomePretitleSignIn">Already using Betoken?</ng-container> <a class="text-white"
+            href="https://betoken.fund/portal/#/dashboard" target="_blank" i18n="@@signIn">Sign in</a>.
+        </p>
+      </div>
+    </div> <!-- / .row -->
+  </div> <!-- / .container -->
+</app-header>
+
 <!-- MAIN CONTENT
     ================================================== -->
 <div class="main-content">
@@ -10,9 +33,13 @@
 
         <div class="card border-0">
           <div class="card-header">
-            <p class="d-flex align-items-center mb-0"><span class="text-success mr-2 h3 mb-0">●</span><ng-container i18n="@@homeLiveMainnet">Live on Ethereum
-              Mainnet</ng-container> <a class="ml-auto text-secondary" href="https://betoken.fund/portal/#/dashboard" target="_blank">
-                <span class="d-none d-lg-inline-block" i18n="@@homeLiveMainnetTryIt">Try it</span> <i class="fe fe-external-link"></i></a></p>
+            <p class="d-flex align-items-center mb-0"><span class="text-success mr-2 h3 mb-0">●</span>
+              <ng-container i18n="@@homeLiveMainnet">Live on Ethereum
+                Mainnet</ng-container> <a class="ml-auto text-secondary" href="https://betoken.fund/portal/#/dashboard"
+                target="_blank">
+                <span class="d-none d-lg-inline-block" i18n="@@homeLiveMainnetTryIt">Try it</span> <i
+                  class="fe fe-external-link"></i></a>
+            </p>
           </div>
           <div class="card-body">
             <div class="row align-items-center">
@@ -356,8 +383,8 @@
             <p class="lead text-secondary" i18n="@@homeHowBetokenDifferentText5">
               No minimums. No deposit fees. Only $1, $2, or $3 to start automating your crypto portfolio.
             </p>
-            <a href="https://betoken.gitbook.io/docs/connect-your-capital/what-is-the-fees-structure"
-              target="_blank" i18n="@@homeCtaFees">More about fees, lockup, and liquidity<i class="fe fe-arrow-right ml-2"></i></a>
+            <a href="https://betoken.gitbook.io/docs/connect-your-capital/what-is-the-fees-structure" target="_blank"
+              i18n="@@homeCtaFees">More about fees, lockup, and liquidity<i class="fe fe-arrow-right ml-2"></i></a>
           </div>
         </div>
       </div>
@@ -618,8 +645,10 @@
     </div>
     <div class="row justify-content-center">
       <div class="col-12 text-center">
-        <a class="btn btn-lg btn-success text-center mb-3 mb-lg-0" href="/funding" i18n="@@ctaDonate">Donate to Betoken</a>
-        <a class="btn btn-lg btn-link text-center mb-3 mb-lg-0" href="/friends" i18n="@@ctaFriendsOfBetoken">Friends of Betoken</a>
+        <a class="btn btn-lg btn-success text-center mb-3 mb-lg-0" href="/funding" i18n="@@ctaDonate">Donate to
+          Betoken</a>
+        <a class="btn btn-lg btn-link text-center mb-3 mb-lg-0" href="/friends" i18n="@@ctaFriendsOfBetoken">Friends of
+          Betoken</a>
       </div>
     </div>
   </div> <!-- / .container -->
