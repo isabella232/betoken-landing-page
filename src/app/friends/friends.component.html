@@ -12,7 +12,7 @@
           <div class="card-header">
             <div class="row align-items-center">
               <div class="col">
-                <h3 class="mb-0"><i class="fe fe-star text-gold mr-2" i18n="@@friendsHallOfFameTitle"></i>Hall of Fame</h3>
+                <h3 class="mb-0"><i class="fe fe-star text-gold mr-2"></i><ng-container i18n="@@friendsHallOfFameTitle">Hall of Fame</ng-container></h3>
               </div>
               <div class="col-auto">
                 <a class="btn btn-sm btn-white"
@@ -201,7 +201,7 @@
                   <div class="col ml-n2">
 
                     <!-- Title -->
-                    <h5 class="mb-1 name">
+                    <h5 class="mb-1 name" i18n="@@BetokenAnonymousDonor">
                       🦄 Anonymous
                     </h5>
                     <span class="badge badge-soft-success" i18n="@@BetokenEvangelist">Betoken Evangelist</span>
@@ -327,11 +327,10 @@
         <div class="card card-inactive mb-5">
           <div class="card-body">
             <h3 i18n="@@friendsSeeSthWrongTitle">See something wrong?</h3>
-            <p class="text-muted" i18n="@@friendsSeeSthWrongText">
+            <p class="text-muted"><ng-container i18n="@@friendsSeeSthWrongText">
               This page is a work in progress. We are doing our best to keep information up to date, but there's a good
-              chance
-              bugs will slip in. For any corrections, please contact an admin on our <a href="https://t.me/betokenfund"
-                target="_blank">Telegram channel</a>.
+              chance bugs will slip in. For any corrections, please contact an admin on our</ng-container> <a href="https://t.me/betokenfund"
+                target="_blank"><ng-container i18n="@@friendsSeeSthWrongTextTelegramChannel">Telegram channel</ng-container></a>.
             </p>
           </div>
         </div>
