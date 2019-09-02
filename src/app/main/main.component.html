@@ -246,14 +246,13 @@
       <div class="col-12 col-lg-5 mb-5 mb-lg-0">
         <h3 class="h1" i18n="@@homeSitTitle">Sit back and relax</h3>
         <!-- Text -->
-        <p class="lead text-secondary" i18n="@@homeSitText">
-          Your capital is automatically distributed among Betoken’s <a href="https://betoken.fund/portal/#/rankings"
-            target="_blank">community of managers</a>. The best of them will have the most influence over how that
-          capital is put to work.
+        <p class="lead text-secondary"><ng-container i18n="@@homeSitText1">Your capital is automatically distributed among Betoken’s</ng-container>
+           <a href="https://betoken.fund/portal/#/rankings" target="_blank"><ng-container i18n="@@homeSitText2">community of managers</ng-container></a>. <ng-container i18n="@@homeSitText3">The best of them will have the most influence over how that
+          capital is put to work.</ng-container>
         </p>
       </div>
       <div class="col-12 col-lg-6 mb-5 mb-lg-0 order-first order-lg-last">
-        <img class="d-block w-50 mx-auto" src="assets/img/illustrations/sit.svg" alt="sit">
+        <img class="d-block w-50 mx-auto" src="assets/img/illustrations/sit.svg" i18n-alt="@@illustrationSit" alt="sit">
       </div>
     </div> <!-- / .row -->
     <div class="row justify-content-center align-items-center mb-0 mb-lg-6">
@@ -276,10 +275,10 @@
       <div class="col-12 col-lg-5 mb-5 mb-lg-0">
         <h3 class="h1" i18n="@@homeBestManagerTitle">The best managers earn the most</h3>
         <!-- Text -->
-        <p class="lead text-secondary" i18n="@@homeBestManagerTex">
-          The Betoken protocol recognizes and quantifies the talent of its crypto-traders by allocating units of
-          reputation to them, denominated in <a href="https://betoken.gitbook.io/docs/manage-the-fund/what-is-kairo"
-            target="_blank">Kairo tokens</a>, and financially rewards them based on their talent and contributions.
+        <p class="lead text-secondary"><ng-container i18n="@@homeBestManagerText1">The Betoken protocol recognizes and quantifies the talent of its crypto-traders by allocating units of
+        reputation to them, denominated in</ng-container>
+           <a href="https://betoken.gitbook.io/docs/manage-the-fund/what-is-kairo"
+            target="_blank"><ng-container i18n="@@homeBestManagerText2">Kairo tokens</ng-container></a><ng-container i18n="@@homeBestManagerText3">, and financially rewards them based on their talent and contributions.</ng-container>
         </p>
         <a class="btn btn-success btn-lg" href="/start" i18n="@@ctaManaging">Start managing</a>
       </div>
@@ -340,11 +339,11 @@
             <img class="d-block w-50 mx-auto mb-4" src="assets/img/illustrations/undraw_team_spirit_hrr4.svg"
               alt="undraw_team_spirit_hrr4">
             <h3 class="h2 d-block d-lg-none" i18n="@@homeHowBetokenDifferentSubtitle1">User-owned, User-governed</h3>
-            <p class="lead text-secondary" i18n="@@homeHowBetokenDifferentText1">
-              Betoken's <a href="https://betoken.gitbook.io/docs/govern/what-is-the-upgrade-governance"
-                target="_blank">governance system</a> oversees protocol changes and upgrades, and provides funding for
+            <p class="lead text-secondary">
+              <ng-container i18n="@@homeHowBetokenDifferentText1a">Betoken's</ng-container> <a href="https://betoken.gitbook.io/docs/govern/what-is-the-upgrade-governance"
+                target="_blank"><ng-container i18n="@@homeHowBetokenDifferentText1b">governance system</ng-container></a> <ng-container i18n="@@homeHowBetokenDifferentText1c">oversees protocol changes and upgrades, and provides funding for
               the development of new features. No single company or individual can control the protocol. It's owned and
-              governed by the very people who use it and benefit from it—You.
+              governed by the very people who use it and benefit from it—You.</ng-container>
             </p>
           </div>
           <div class="tab-pane fade" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
@@ -383,8 +382,7 @@
             <p class="lead text-secondary" i18n="@@homeHowBetokenDifferentText5">
               No minimums. No deposit fees. Only $1, $2, or $3 to start automating your crypto portfolio.
             </p>
-            <a href="https://betoken.gitbook.io/docs/connect-your-capital/what-is-the-fees-structure" target="_blank"
-              i18n="@@homeCtaFees">More about fees, lockup, and liquidity<i class="fe fe-arrow-right ml-2"></i></a>
+            <a href="https://betoken.gitbook.io/docs/connect-your-capital/what-is-the-fees-structure" target="_blank"><ng-container i18n="@@homeCtaFees">More about fees, lockup, and liquidity</ng-container><i class="fe fe-arrow-right ml-2"></i></a>
           </div>
         </div>
       </div>
@@ -433,11 +431,11 @@
           alt="undraw_Security_on_s9ym" height="192">
         <h3 class="h1" i18n="@@homeAuditTitle">Tested and audited smart contracts</h3>
         <!-- Text -->
-        <p class="lead text-secondary mb-4" i18n="@@homeAuditText">
-          Betoken's smart contracts are audited and secured by <a
+        <p class="lead text-secondary mb-4">
+          <ng-container i18n="@@homeAuditText1">Betoken's smart contracts are audited and secured by</ng-container> <a
             href="https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20%20Betoken%20%5B20.05.2019%5D.pdf"
-            target="_blank">Solidified</a> and are designed so that no one can steal the collateral that backs the value
-          of your deposit.
+            target="_blank">Solidified</a> <ng-container i18n="@@homeAuditText2">and are designed so that no one can steal the collateral that backs the value
+          of your deposit.</ng-container>
         </p>
       </div>
 
@@ -662,11 +660,11 @@
         </h2>
 
         <!-- Text -->
-        <p class="lead text-center text-muted d-none d-lg-block" i18n="@@homeOpenMovementText">
-          Betoken is an open project that believes in open source code and creative contribution from people with
+        <p class="lead text-center text-muted d-none d-lg-block">
+          <ng-container i18n="@@homeOpenMovementText1">Betoken is an open project that believes in open source code and creative contribution from people with
           diverse interests and skill-sets. Dozens of people have contributed ideas, code, designs, and time to Betoken.
-          Here are just a few of the faces from our <a href="https://t.me/betokenfund">English</a> and <a
-            href="https://t.me/betokenJapanese">Japanese</a> chatroom.
+          Here are just a few of the faces from our</ng-container> <a href="https://t.me/betokenfund"><ng-container i18n="@@homeOpenMovementText2">English</ng-container></a> <ng-container i18n="@@homeOpenMovementText3">and</ng-container> <a
+            href="https://t.me/betokenJapanese"><ng-container i18n="@@homeOpenMovementText4">Japanese</ng-container></a> <ng-container i18n="@@homeOpenMovementText5">chatroom</ng-container>.
         </p>
 
         <!-- Title -->
@@ -675,11 +673,11 @@
         </h2>
 
         <!-- Text -->
-        <p class="lead text-center text-muted d-block d-lg-none" i18n="@@homeOpenMovementText">
-          Betoken is an open project that believes in open source code and creative contribution from people with
+        <p class="lead text-center text-muted d-block d-lg-none">
+          <ng-container i18n="@@homeOpenMovementText1">Betoken is an open project that believes in open source code and creative contribution from people with
           diverse interests and skill-sets. Dozens of people have contributed ideas, code, designs, and time to Betoken.
-          Here are just a few of the faces from our <a href="https://t.me/betokenfund">English</a> and <a
-            href="https://t.me/betokenJapanese">Japanese</a> chatroom.
+          Here are just a few of the faces from our</ng-container> <a href="https://t.me/betokenfund"><ng-container i18n="@@homeOpenMovementText2">English</ng-container></a> <ng-container i18n="@@homeOpenMovementText3">and</ng-container> <a
+            href="https://t.me/betokenJapanese"><ng-container i18n="@@homeOpenMovementText4">Japanese</ng-container></a> <ng-container i18n="@@homeOpenMovementText5">chatroom</ng-container>.
         </p>
       </div>
     </div> <!-- / .row -->
