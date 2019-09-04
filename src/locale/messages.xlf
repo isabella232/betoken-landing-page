@@ -830,7 +830,7 @@
       </trans-unit>
       <trans-unit id="headerFriendsText3" datatype="html">
         <source>We&apos;re
-          grateful for their support, and are proud to display their logos or names as supporters ofBetoken.</source>
+          grateful for their support, and are proud to display their logos or names as supporters of Betoken.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/friends/friends.component.html</context>
           <context context-type="linenumber">15</context>
