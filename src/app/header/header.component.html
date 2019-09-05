@@ -16,6 +16,13 @@
           </a>
         </div>
         <div class="col ml-auto d-flex justify-content-end">
+          <div class="mr-5 d-flex d-md-none align-items-center">
+            <a data-toggle="modal" href="#modalLanguage">
+              <span class="icon">
+                <img src="assets/img/baseline-translate-24px.svg" alt="">
+              </span>
+            </a>
+          </div>
           <div class="navbar-user">
             <a class="text-white mr-5 d-none d-md-flex" href="https://betoken.gitbook.io/docs/" target="_blank" i18n="@@navHelp">Help</a>
             <a class="text-white mr-5 d-none d-md-flex" href="/friends" i18n="@@navFriends">Friends</a>
@@ -26,7 +33,13 @@
                   <i class="fe fe-bell"></i>
                 </span>
               </a>
-
+            </div>
+            <div class="mr-4 d-none d-md-flex">
+              <a data-toggle="modal" href="#modalLanguage">
+                <span class="icon">
+                  <img src="assets/img/baseline-translate-24px.svg" alt="">
+                </span>
+              </a>
             </div>
           </div>
           <ul class="navbar-nav">
@@ -45,6 +58,6 @@
       </div>
     </div> <!-- / .container -->
   </nav>
-  
+
   <ng-content></ng-content>
 </div> <!-- / .bg-ellipses -->
