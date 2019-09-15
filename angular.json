@@ -64,6 +64,72 @@
                   "maximumError": "5mb"
                 }
               ]
+            },
+            "zh-Hans": {
+              "aot": true,
+              "outputPath": "dist/betoken-landing-page/zh-Hans",
+              "i18nFile": "src/locale/messages.zh-Hans.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "zh-Hans",
+              "i18nMissingTranslation": "error",
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true
+            },
+            "ja": {
+              "aot": true,
+              "outputPath": "dist/betoken-landing-page/ja",
+              "i18nFile": "src/locale/messages.ja.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "ja",
+              "i18nMissingTranslation": "error",
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true
+            },
+            "pt": {
+              "aot": true,
+              "outputPath": "dist/betoken-landing-page/pt",
+              "i18nFile": "src/locale/messages.pt.xlf",
+              "i18nFormat": "xlf",
+              "i18nLocale": "pt",
+              "i18nMissingTranslation": "error",
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true
             }
           }
         },
@@ -75,6 +141,15 @@
           "configurations": {
             "production": {
               "browserTarget": "betoken-landing-page:build:production"
+            },
+            "zh-Hans": {
+              "browserTarget": "Betoken:build:zh-Hans"
+            },
+            "ja": {
+              "browserTarget": "Betoken:build:ja"
+            },
+            "pt": {
+              "browserTarget": "Betoken:build:pt"
             }
           }
         },
