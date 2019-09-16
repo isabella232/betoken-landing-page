@@ -1,373 +1,369 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en" target-language="pt-br">
+  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en" target-language="ja">
     <header>
       <tool tool-id="poeditor.com" tool-name="POEditor"/>
     </header>
     <body>
       <trans-unit id="headerStartTitle">
         <source>Get Started with Betoken</source>
-        <target>Começar com Betoken</target>
+        <target>Betokenを始めましょう</target>
       </trans-unit>
       <trans-unit id="headerStartText">
         <source>Choose an option below to begin</source>
-        <target>Escolha uma das opções abaixo para começar</target>
+        <target>以下のオプションを選択して開始してください</target>
       </trans-unit>
       <trans-unit id="connectCapitalTitle">
         <source>Deposit &amp; Withdraw</source>
-        <target>Deposite e Saque</target>
+        <target>入金と出金</target>
       </trans-unit>
       <trans-unit id="startConnectCapitalText">
         <source>Connect your capital with Betoken's fund managers.</source>
-        <target>Conecte seu capital aos gestores de fundos Betoken.</target>
+        <target>資金をBetokenファンドと接続します。</target>
       </trans-unit>
       <trans-unit id="ctaManaging">
         <source>Start managing</source>
-        <target>Comece a gerenciar</target>
+        <target>管理を開始</target>
       </trans-unit>
       <trans-unit id="startManagingText">
         <source>Be financially rewarded based on your talent and contributions as a fund manager.</source>
-        <target>Seja recompensado financeiramente com base no seu talento e nas suas contribuições como gestor de fundos.</target>
+        <target>ファンドマネージャーとしての実績に基づいて、コミッションを得ることができます。</target>
       </trans-unit>
       <trans-unit id="SartAuditedBySolidified">
         <source>Betoken Smart Contracts are audited and secured by Solidified</source>
-        <target>Os Smart Contracts Betoken são auditados e protegidos por Solidified</target>
+        <target>Betokenスマートコントラクトは、Solidifiedによって監査および保護されています</target>
       </trans-unit>
       <trans-unit id="headerHomePretitle">
         <source>Meet Betoken</source>
-        <target>Conheça Betoken</target>
+        <target>Meet Betoken</target>
       </trans-unit>
       <trans-unit id="headerHomeTitle">
         <source>Crowd-powered asset management protocol</source>
-        <target>Protocolo de gerenciamento de ativos crowd-powered</target>
+        <target>クラウドベースの資産管理プロトコル</target>
       </trans-unit>
       <trans-unit id="headerHomeTitleMobile">
         <source>Crowd-powered asset management protocol</source>
-        <target>Protocolo de gerenciamento de ativos crowd-powered</target>
+        <target>クラウドベースの資産管理プロトコル</target>
       </trans-unit>
       <trans-unit id="ctaGetStarted">
         <source>Get started</source>
-        <target>Começar</target>
+        <target>Get Started</target>
       </trans-unit>
       <trans-unit id="headerHomePretitleSignIn">
         <source>Already using Betoken?</source>
-        <target>Já está usando Betoken?</target>
+        <target>既にBetokenを使用していますか？</target>
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign in</source>
-        <target>Iniciar sessão</target>
+        <target>Sign in</target>
       </trans-unit>
       <trans-unit id="homeStatsAUM">
         <source>Assets Under Management</source>
-        <target>Ativos Sob Gestão</target>
+        <target>管理運用資産</target>
       </trans-unit>
       <trans-unit id="homeStatsLoading">
         <source>Loading...</source>
-        <target>Carregando...</target>
+        <target>Loading...</target>
       </trans-unit>
       <trans-unit id="homeStatsRoi1m">
         <source>ROI (1 Month)</source>
-        <target>ROI (1 mês)</target>
+        <target>ROI（一ヵ月）</target>
       </trans-unit>
       <trans-unit id="homeStatsRoiSinceInception">
         <source>ROI (Since inception)</source>
-        <target>ROI (Desde o começo)</target>
+        <target>ROI（創設以来）</target>
       </trans-unit>
       <trans-unit id="homeStatsNbManagers">
         <source>Number of Managers</source>
-        <target>Número de Gestores</target>
+        <target>マネージャー数</target>
       </trans-unit>
       <trans-unit id="home2brainsTitle">
         <source>You think 2 brains are better than one...</source>
-        <target>Você acredita que 2 cabeças pensam melhor que 1...</target>
+        <target>才能は一つであるよりも複数である方が優れている...</target>
       </trans-unit>
       <trans-unit id="home2brainsSubTitle">
         <source>How about hundreds of talented asset managers working for you? Worldwide!</source>
-        <target>Que tal centenas de talentosos gestores de ativos trabalhando por você? No mundo todo!</target>
+        <target>世界中の何百人もの才能あるマネージャーが、あなたのために働いています！</target>
       </trans-unit>
       <trans-unit id="home2brainsText1">
         <source>Many people have the capital to invest in cryptocurrency but not the expertise, and many others have the expertise but not the capital.</source>
-        <target>Muitas pessoas têm o capital para investir em criptomoedas, mas não o conhecimento, muitas outras têm o conhecimento mas não o capital.</target>
+        <target>多くの人々は暗号通貨に投資する資金を持っているが専門知識は持っておらず、また他の多くの人は専門知識を持っているが資金は持っていない。</target>
       </trans-unit>
       <trans-unit id="home2brainsText2">
         <source>Betoken is an open-source, community-owned, permissionless, and censorship-resistant protocol for connecting capital with talent, and talent with capital.</source>
-        <target>Betoken é um protocolo de código aberto, de propriedade da comunidade, sem permissão e resistente à censura para conectar capital com talento e talento com capital.</target>
+        <target>Betokenは資金と才能を結び付けるための、コミュニティ所有のパーミッションレスで検閲耐性のあるオープンソースプロトコルです。</target>
       </trans-unit>
       <trans-unit id="homeOpenFundTitle">
         <source>An open crypto fund managed by code and meritocracy</source>
-        <target>Um fundo cripto aberto gerenciado por código e meritocracia</target>
+        <target>コードと実力主義によって管理されるオープン暗号資産ファンド</target>
       </trans-unit>
       <trans-unit id="homeOpenFundText">
         <source>Your money is managed by the best people</source>
-        <target>Seu dinheiro é gerenciado pelos melhores</target>
+        <target>あなたの資金は才能ある人々によって管理されています</target>
       </trans-unit>
       <trans-unit id="homeSitTitle">
         <source>Sit back and relax</source>
-        <target>Sente-se e relaxe</target>
+        <target>座ってリラックスする</target>
       </trans-unit>
       <trans-unit id="homeSitText1">
         <source>Your capital is automatically distributed among Betoken’s</source>
-        <target>Seu capital é automaticamente distribuido pela</target>
+        <target>あなたの資金はBetoken内に自動的に割り当てられ運用されます</target>
       </trans-unit>
       <trans-unit id="homeSitText2">
         <source>community of managers</source>
-        <target>comunidade de gestores Betoken</target>
+        <target>マネージャーのコミュニティ</target>
       </trans-unit>
       <trans-unit id="homeSitText3">
         <source>The best of them will have the most influence over how that capital is put to work.</source>
-        <target>Os melhores terão maior influência sobre como esse capital é colocado em funcionamento.</target>
+        <target>最も優れたマネージャーは、資金がどのように運用されるかに最も多くの影響を与えます。</target>
       </trans-unit>
       <trans-unit id="illustrationSit">
         <source>sit</source>
-        <target>sente</target>
+        <target>座る</target>
       </trans-unit>
       <trans-unit id="homeSaveTitle">
         <source>Save time &amp; effort</source>
-        <target>Economize tempo e esforço</target>
+        <target>時間と労力を節約</target>
       </trans-unit>
       <trans-unit id="homeSaveText">
         <source>Unlike platforms such as Melonport and eToro, you don’t need to waste time on choosing the best performers and carefully hedging capital amongst them. All Betoken managers actively trade against the market while you sleep.</source>
-        <target>Ao contrário de plataformas como Melonport e eToro, você não precisa perder tempo escolhendo os melhores e cuidadosamente distribuir o capital entre eles. Todos os gestores da Betoken fazem trade ativamente contra o mercado enquanto você dorme.</target>
-        <note>"hedging capital" can I translate as "distribute capital"?</note>
+        <target>MelonportやeToroなどのプラットフォームとは異なり、最高のパフォーマンスを発揮している人材を慎重に選ぶために時間を使う必要はありません。すべてのBetokenマネージャーは、あなたが寝ている間も市場に対して積極的に取引します。</target>
       </trans-unit>
       <trans-unit id="homeCtaConnectCapital">
         <source>Deposit your capital</source>
-        <target>Deposite seu capital</target>
+        <target>資本金を入金する</target>
       </trans-unit>
       <trans-unit id="homeBestManagerTitle">
         <source>The best managers earn the most</source>
-        <target>Os melhores gestores ganham mais</target>
+        <target>最高のマネジャーが、最も稼ぐ</target>
       </trans-unit>
       <trans-unit id="homeBestManagerText1">
         <source>The Betoken protocol recognizes and quantifies the talent of its crypto-traders by allocating units of reputation to them, denominated in</source>
-        <target>O protocolo Betoken reconhece e quantifica o talento de seus cripto-traders, distribuindo unidades de reconhecimento, denominadas</target>
+        <target>Betokenプロトコルは、暗号通貨トレーダーの才能を認識し、定量化します。</target>
       </trans-unit>
       <trans-unit id="homeBestManagerText2">
         <source>Kairo tokens</source>
-        <target>tokens Kairo</target>
+        <target>KROトークン</target>
       </trans-unit>
       <trans-unit id="homeBestManagerText3">
         <source>, and financially rewards them based on their talent and contributions.</source>
-        <target>, e recompensa-os financeiramente com base em seus talentos e contribuições</target>
+        <target>実績に基づいてコミッションを与えます。</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentTitle">
         <source>How is Betoken different?</source>
-        <target>Por que Betoken é diferente?</target>
+        <target>Betokenはどのように違いますか？</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle1">
         <source>User-owned, User-governed</source>
-        <target>Propriedade do usuário, Controlada pelo usuário</target>
+        <target>ユーザー自身で所有、ユーザー自身で管理</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle2">
         <source>Active Management</source>
-        <target>Gerenciamento Ativo</target>
+        <target>積極的な運用</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle3">
         <source>Full Collateralization</source>
-        <target>Garantia Total</target>
+        <target>完全担保化</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle4">
         <source>70+ Assets</source>
-        <target>70+ Ativos</target>
+        <target>７０種以上の資産</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle5">
         <source>No limits, no hidden fees</source>
-        <target>Sem limites, sem taxas ocultas</target>
+        <target>上限下限制限なし、隠れた手数料なし</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText1a">
         <source>Betoken's</source>
-        <target>Sistema de governança</target>
+        <target>Betoken's</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText1b">
         <source>governance system</source>
-        <target>Betoken</target>
+        <target>ガバナンスシステム</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText1c">
         <source>oversees protocol changes and upgrades, and provides funding for the development of new features. No single company or individual can control the protocol. It's owned and governed by the very people who use it and benefit from it—You.</source>
-        <target>supervisiona as alterações e atualizações do protocolo e fornece financiamento para o desenvolvimento de novos recursos. Nenhuma empresa ou indivíduo pode controlar o protocolo. Ele pertence e é controlado pelas mesmas pessoas que o usam e se beneficiam dele - Vocês.</target>
+        <target>プロトコルの変更とアップグレードを監督し、新機能の開発のための資金を提供します。単一の企業または個人がプロトコルを制御することはできません。利益を得るコミュニティ全体によって所有され、管理されています。</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText2">
         <source>Hundreds of Betoken managers actively prevent losses and seize profitable opportunities for your sake. Your money is converted into an actively managed portfolio of assets that can immediately respond to even the slightest changes in the market.</source>
-        <target>Centenas de gestores Betoken evitam perdas e aproveitam oportunidades lucrativas para você. Seu dinheiro é convertido em um portfólio de ativos gerenciado ativamente, que pode responder imediatamente até às menores mudanças no mercado.</target>
+        <target>何百人ものBetokenマネージャーが、積極的に損失を防ぎ有益な機会をつかみます。あなたのお金は積極的に管理される資産のポートフォリオに変換され、市場のわずかな変化にも即座に対応できます。</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText3">
         <source>When you deposit your capital on Betoken, it is converted in Betoken Share tokens. It represents your ownership in the Betoken fund and is fully backed by a collateral in the smart contract. Each of them acts like a tokenized portfolio, containing the underlying tokens that Betoken managers buy and sell.</source>
-        <target>Quando você deposita seu capital em Betoken, ele é convertido em tokens de Compartilhamento Betoken. Isso representa a sua propriedade no fundo Betoken e é totalmente assegurado por uma garantia no contrato inteligente. Cada um deles age como um portfólio tokenizado, contendo os tokens subjacentes que os gestores Betoken compram e vendem.</target>
+        <target>Betokenファンドに入金すると、資金はBTKSトークンに変換されます。これはBetokenファンドの所有権を表しており、スマートコントラクトによって完全に保護されています。それはトークン化されたポートフォリオのように機能し、Betokenマネージャーが売買する基盤となるトークンを含みます。</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText4">
         <source>By depositing your capital to Betoken protocol, you get direct exposure to ETH, WBTC, BAT, MKR and 70+ ERC20 tokens.</source>
-        <target>Ao depositar seu capital ao protocolo Betoken, você obtém exposição direta aos tokens ETH, WBTC, BAT, MKR e mais de 70 ERC20.</target>
+        <target>Betokenファンドに資金を預け入れると、ETH、WBTC、BAT、MKR、および70種以上のERC20トークンに直接投資されます。</target>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText5">
         <source>No minimums. No deposit fees. Only $1, $2, or $3 to start automating your crypto portfolio.</source>
-        <target>Sem mínimos. Sem taxas de depósito. Apenas $1, $2 ou $3 para começar a automatizar seu portfólio cripto.</target>
+        <target>入金最小値設定はありません。入金手数料もありません。暗号ポートフォリオの自動化を開始するには、たった1ドル、2ドル、3ドルでも可能です。</target>
       </trans-unit>
       <trans-unit id="homeCtaFees">
         <source>More about fees, lockup, and liquidity</source>
-        <target>Mais sobre taxas, bloqueio e liquidez</target>
+        <target>手数料、ロックアップ、流動性の詳細</target>
       </trans-unit>
       <trans-unit id="homeSafeTitle">
         <source>You are in safe hands</source>
-        <target>Você está em boas mãos</target>
+        <target>資金は安全に守られています</target>
       </trans-unit>
       <trans-unit id="homeSafeText">
         <source>Remain always in control of your funds. Built and audited by the best.</source>
-        <target>Permaneça sempre no controle de seus fundos. Construído e auditado pelos melhores.</target>
+        <target>常に資金を管理し続けます。最高の構築と監査。</target>
       </trans-unit>
       <trans-unit id="homeNonCustodialTitle">
         <source>Non-custodial</source>
-        <target>Não custodial</target>
+        <target>Non-custodial</target>
       </trans-unit>
       <trans-unit id="homeNonCustodialText">
         <source>Betoken is non-custodial. You always stay in control, it’s written on the blockchain. All user funds are locked in smart contracts without Betoken developers having any direct or indirect access to those funds.</source>
-        <target>Betoken não tem custódia. Você sempre está no controle, está escrito na blockchain. Todos os fundos de usuários são bloqueados em contratos inteligentes sem que os desenvolvedores de Betoken tenham acesso direto ou indireto a esses fundos.</target>
+        <target>Betokenはノンカストディアルです。あなたの資金は常にあなたの管理下にあり、ブロックチェーンに書かれています。 Betoken開発者がこれらの資金に直接または間接的にもアクセスすることはできず、すべてのユーザー資金はスマートコントラクトにロックされています。</target>
       </trans-unit>
       <trans-unit id="homeAuditTitle">
         <source>Tested and audited smart contracts</source>
-        <target>Contratos inteligentes testados e auditados</target>
+        <target>スマートコントラクトのテストと監査</target>
       </trans-unit>
       <trans-unit id="homeAuditText1">
         <source>Betoken's smart contracts are audited and secured by</source>
-        <target>Os contratos inteligentes de Betoken são testados e auditados por</target>
+        <target>Betokenスマートコントラクトは監査、保護されています。by　</target>
       </trans-unit>
       <trans-unit id="homeAuditText2">
         <source>and are designed so that no one can steal the collateral that backs the value of your deposit.</source>
-        <target>e são projetados para que ninguém possa roubar a garantia que assegura o valor do seu depósito.</target>
+        <target>あなたの預金の価値を支える資産は、誰もが決して盗むことができないように設計されています。</target>
       </trans-unit>
       <trans-unit id="homeOpenProtocolTitle">
         <source>Powered by open protocols</source>
-        <target>Desenvolvido por protocolos abertos</target>
+        <target>Powered by open protocols</target>
       </trans-unit>
       <trans-unit id="homeOpenProtocolText">
         <source>Betoken protocol uses the full value of the open finance ecosystem</source>
-        <target>O protocolo Betoken utiliza todo o valor do ecossistema de finanças abertas</target>
+        <target>Betokenプロトコルは、オープンファイナンスエコシステムの価値を最大限に活用します</target>
       </trans-unit>
       <trans-unit id="homeOpenProtocolKyber">
         <source>An on-chain liquidity protocol that aggregates liquidity from a wide range of reserves, allowing betoken managers to trade instantly.</source>
-        <target>Um protocolo de liquidez on-chain que agrega liquidez a partir de uma ampla gama de reservas, permitindo que os gestores betoken façam trade instantaneamente.</target>
+        <target>幅広い準備金からの流動性を集約し、Betokenマネージャーが即座に取引できるようにするオンチェーン流動性プロトコル。</target>
       </trans-unit>
       <trans-unit id="homeOpenProtocolBzx">
         <source>A financial primitive enabling margin trading with up to 4x leverage on Betoken.</source>
-        <target>Um ferramenta financeira essencial que permite margens de troca com alavancagem de até 4x em Betoken.</target>
-        <note>financial primitive meaning</note>
+        <target>Betokenで最大4倍のレバレッジでマージン取引を可能にする金融プロトコル。</target>
       </trans-unit>
       <trans-unit id="homeOpenProtocolMaker">
         <source>A decentralized autonomous organization (DAO) comprised of a decentralized stablecoin (Dai), collateral loans, and community governance. Betoken use Dai to handle its bookkeeping, and distribute profits and commissions to its users.</source>
-        <target>Uma organização autônoma descentralizada (DAO) composta por uma stablecoin descentralizada (Dai), empréstimos de garantia e gestão comunitária. \nBetoken usa a Dai para cuidar de sua contabilidade e distribuir lucros e comissões aos seus usuários.</target>
-        <note>"collateral loans" is like a guaranty loan?</note>
+        <target>分散型ステーブルコイン（Dai）、担保ローン、およびコミュニティガバナンスで構成される分散自律組織（DAO）。 BetokenはDaiを使用して簿記を処理し、利益とコミッションをユーザーに分配します。</target>
       </trans-unit>
       <trans-unit id="homeOpenProtocolCompound">
         <source>A decentralized protocol which establishes money markets with algorithmically set interest rates based on supply and demand, allowing Betoken managers to perform margin trading with 1.5x leverage or better.</source>
-        <target>Um protocolo descentralizado que estabelece mercados monetários com taxas de juros definidas algoritmicamente com base na oferta e na demanda, permitindo que os gestores Betoken realizem transações de margem com alavancagem de 1,5x ou mais.</target>
+        <target>需要と供給に基づいたアルゴリズムで金利を設定し、マネーマーケットを確立する分散プロトコルです。これによりBetokenマネージャーは、1.5倍以上のレバレッジでマージン取引を実行できます。</target>
       </trans-unit>
       <trans-unit id="homeCreateAccountTitle">
         <source>Create an account</source>
-        <target>Crie uma conta</target>
+        <target>アカウントを作成する</target>
       </trans-unit>
       <trans-unit id="homeCreateAccountSubTitle">
         <source>Use any supported wallet.</source>
-        <target>Use uma das carteiras suportadas.</target>
+        <target>サポートされているウォレットを使用します。</target>
       </trans-unit>
       <trans-unit id="homeConnectCapitalText">
         <source>Let proven managers handle your crypto portfolio.</source>
-        <target>Deixe que gestores comprovados lidem com seu portfólio cripto.</target>
+        <target>実績のあるマネージャーに暗号ポートフォリオを運転させます。</target>
       </trans-unit>
       <trans-unit id="homeGetPaidTitle">
         <source>...Or get paid to trade</source>
-        <target>...Ou seja pago para fazer trade</target>
+        <target>...またはトレード報酬を得る</target>
       </trans-unit>
       <trans-unit id="homeGetPaidText">
         <source>Earn commissions for making good investments.</source>
-        <target>Ganhe comissões por fazer bons investimentos.</target>
+        <target>良い投資をしてコミッションを獲得します。</target>
       </trans-unit>
       <trans-unit id="homeFundingTitle">
         <source>Funding</source>
-        <target>Financiamento</target>
+        <target>資金調達</target>
       </trans-unit>
       <trans-unit id="homeFundingText1">
         <source>Betoken is launched fairly — free of ICO or pre-minted tokens. We rely on donations. If you’re an individual, company or institution excited about the potential of Betoken, we humbly ask if you’d consider making a financial contribution to the project’s development. We’re experimenting with a 100% community-driven funding model.</source>
-        <target>Betoken foi lançado de forma justa - livre de ICO ou tokens pré-criados. Contamos com doações. Se você é um indivíduo, empresa ou instituição entusiasmado com o potencial de Betoken, perguntamos humildemente se você considera fazer uma contribuição financeira para o desenvolvimento do projeto. Estamos experimentando um modelo de financiamento 100% baseado na comunidade.</target>
+        <target>BetokenはICOを行わず、また事前発行されたトークンを含まずに開始しました。私たちは初期資金を寄付に頼っています。 Betokenの可能性に興奮している個人、企業、または機関の方に、プロジェクトの開発に金銭的な貢献をすることを検討していただけるよう謙虚にお願いします。 100％コミュニティ主導の資金調達モデルを実験しています。</target>
       </trans-unit>
       <trans-unit id="homeFundingText2">
         <source>Support the movement by making a donation.</source>
-        <target>Apoie o movimento através de uma doação.</target>
+        <target>寄付をして支援します。</target>
       </trans-unit>
       <trans-unit id="ctaDonate">
         <source>Donate to Betoken</source>
-        <target>Doar para Betoken</target>
+        <target>Betokenに寄付する</target>
       </trans-unit>
       <trans-unit id="ctaFriendsOfBetoken">
         <source>Friends of Betoken</source>
-        <target>Amigos de Betoken</target>
+        <target>Friends of Betoken</target>
       </trans-unit>
       <trans-unit id="homeOpenMovementTitle">
         <source>Join The Open Movement</source>
-        <target>Junte-se ao movimento aberto</target>
+        <target>Join The Open Movement</target>
       </trans-unit>
       <trans-unit id="homeOpenMovementText1">
         <source>Betoken is an open project that believes in open source code and creative contribution from people with diverse interests and skill-sets. Dozens of people have contributed ideas, code, designs, and time to Betoken. Here are just a few of the faces from our</source>
-        <target>Betoken é um projeto aberto que acredita no código-fonte aberto e na contribuição criativa de pessoas com interesses e habilidades diversos. Dezenas de pessoas contribuíram com idéias, códigos, designs e tempo para Betoken. Aqui estão apenas alguns dos rostos do nosso</target>
+        <target>Betokenはオープンソースコードで、さまざまな興味やスキルを持つ人々からの創造的な貢献を信じるオープンプロジェクトです。何十人もの人々がアイデア、コード、デザイン、時間をBetokenに提供してきました。ここに私たちの仲間のほんの一部があります</target>
       </trans-unit>
       <trans-unit id="homeOpenMovementText2">
         <source>English</source>
-        <target>chat em</target>
+        <target>English</target>
       </trans-unit>
       <trans-unit id="homeOpenMovementText3">
         <source>and</source>
-        <target>Inglês</target>
+        <target>and</target>
       </trans-unit>
       <trans-unit id="homeOpenMovementText4">
         <source>Japanese</source>
-        <target>e</target>
+        <target>Japanese</target>
       </trans-unit>
       <trans-unit id="homeOpenMovementText5">
         <source>chatroom</source>
-        <target>Japonês</target>
+        <target>チャットルーム</target>
       </trans-unit>
       <trans-unit id="headerOverviewPreTitle">
         <source>Overview</source>
-        <target>Visão Geral</target>
+        <target>Overview</target>
       </trans-unit>
       <trans-unit id="headerFriendsTitle">
         <source>Friends of Betoken</source>
-        <target>Amigos de Betoken</target>
+        <target>Friends of Betoken</target>
       </trans-unit>
       <trans-unit id="headerFriendsText1">
         <source>The following companies, institutions, or individuals have generously donated financial resources to the Betoken project under our</source>
-        <target>As seguintes empresas, instituições ou indivíduos generosamente doaram  recursos financeiros ao projeto Betoken sob nosso</target>
+        <target>以下の企業、機関、または個人は、Betokenプロジェクトに資金を寄付しました</target>
       </trans-unit>
       <trans-unit id="headerFriendsText2">
         <source>community funding model</source>
-        <target>modelo de financiamento comunitário</target>
+        <target>community funding model</target>
       </trans-unit>
       <trans-unit id="headerFriendsText3">
         <source>We're grateful for their support, and are proud to display their logos or names as supporters of Betoken.</source>
-        <target>Somos gratos por seu apoio e temos orgulho de exibir seus logos ou nomes como colaboradores de Betoken.</target>
+        <target>彼らのサポートに感謝します。Betokenのサポーターとしてロゴまたは名前を表示できることを誇りに思います。</target>
       </trans-unit>
       <trans-unit id="friendsHallOfFameTitle">
         <source>Hall of Fame</source>
-        <target>Hall da Fama</target>
+        <target>栄誉殿堂</target>
       </trans-unit>
       <trans-unit id="ctaAskToBeListed">
         <source>Ask to be listed</source>
-        <target>Peça para ser listado</target>
+        <target>リストを依頼する</target>
       </trans-unit>
       <trans-unit id="friendsHallOfFameCtaDonate">
         <source>Donate to take this spot!</source>
-        <target>Faça uma doação para aparecer aqui!</target>
+        <target>ここに寄付してください！</target>
       </trans-unit>
       <trans-unit id="friendsCtaBtnDonate">
         <source>Donate</source>
-        <target>Fazer doação</target>
+        <target>寄付する</target>
       </trans-unit>
       <trans-unit id="friendsIndividualsTitle">
         <source>Individuals</source>
-        <target>Indivíduos</target>
+        <target>個人</target>
       </trans-unit>
       <trans-unit id="BetokenEvangelist">
         <source>Betoken Evangelist</source>
-        <target>Pioneiro Betoken</target>
-        <note>meaning</note>
+        <target>Betoken Evangelist</target>
       </trans-unit>
       <trans-unit id="friendsIndividualTotalDonation">
         <source>total</source>
@@ -375,333 +371,331 @@
       </trans-unit>
       <trans-unit id="friendsIndividualNbofDonations">
         <source># donations</source>
-        <target># doações</target>
+        <target># donations</target>
       </trans-unit>
       <trans-unit id="BetokenAnonymousDonor">
         <source>🦄 Anonymous</source>
-        <target>🦄 Anônimo</target>
+        <target>🦄 匿名</target>
       </trans-unit>
       <trans-unit id="friendsIndividualsCtaYourNameHere">
         <source>Your name here</source>
-        <target>Seu nome aqui</target>
+        <target>Your name here</target>
       </trans-unit>
       <trans-unit id="friendsCompaniesTitle">
         <source>Companies</source>
-        <target>Empresas</target>
+        <target>企業</target>
       </trans-unit>
       <trans-unit id="friendsCompaniesCtaYourLogoHere">
         <source>Your logo here</source>
-        <target>Sua logo aqui</target>
+        <target>Your logo here</target>
       </trans-unit>
       <trans-unit id="friendsAnonymousTitle">
         <source>Anonymous Supporters</source>
-        <target>Colaboradores Anônimos</target>
+        <target>匿名サポーター</target>
       </trans-unit>
       <trans-unit id="friendsAnonymousText">
         <source>We'd also like to explicitly thank everyone who's donated but chosen to remain anonymous.</source>
-        <target>Também gostaríamos de agradecer explicitamente a todos que doaram, mas optaram por permanecer anônimos.</target>
+        <target>また、匿名のまま寄付されたすべての方にも、この場をかりて心から感謝致します。</target>
       </trans-unit>
       <trans-unit id="friendsSeeSthWrongTitle">
         <source>See something wrong?</source>
-        <target>Está vendo algo errado?</target>
+        <target>何か間違いがありますか？</target>
       </trans-unit>
       <trans-unit id="friendsSeeSthWrongText">
         <source>This page is a work in progress. We are doing our best to keep information up to date, but there's a good chance bugs will slip in. For any corrections, please contact an admin on our</source>
-        <target>Esta página é um trabalho em andamento. Estamos fazendo o possível para manter as informações atualizadas, mas há uma boa chance de ocorrerem erros. Para qualquer correção, entre em contato com um administrador em nosso</target>
+        <target>このページは作成中です。情報を最新に保つために最善を尽くしていますが、バグが入り込む可能性は十分にあります。修正については、管理者に連絡してください。</target>
       </trans-unit>
       <trans-unit id="friendsSeeSthWrongTextTelegramChannel">
         <source>Telegram channel</source>
-        <target>canal no Telegram</target>
+        <target>Telegram channel</target>
       </trans-unit>
       <trans-unit id="headerFundingTitle">
         <source>Community Funding</source>
-        <target>Financiamento Comunitário</target>
+        <target>Community Funding</target>
       </trans-unit>
       <trans-unit id="headerFundingTitleMobile">
         <source>Community Funding</source>
-        <target>Financiamento Comunitário</target>
+        <target>Community Funding</target>
       </trans-unit>
       <trans-unit id="headerFundingText1">
         <source>This is a</source>
-        <target>Isso é um</target>
+        <target>This is a</target>
       </trans-unit>
       <trans-unit id="headerFundingText2">
         <source>general fund</source>
-        <target>fundo geral</target>
+        <target>general fund</target>
       </trans-unit>
       <trans-unit id="headerFundingText3">
         <source>for the Betoken's ongoing development campaign. Donations into this fund are always welcome, very appreciated, and a quick and easy way to get yourself or your company on to the</source>
-        <target>para a campanha de desenvolvimento contínuo de Betoken. As doações para esse fundo são sempre bem-vindas, muito apreciadas e uma maneira rápida e fácil de levar você ou sua empresa à</target>
+        <target>Betokenの継続的な開発のために、この基金への寄付は常に歓迎され、心から感謝致します。</target>
       </trans-unit>
       <trans-unit id="headerFundingText4">
         <source>friends of Betoken</source>
-        <target>página</target>
+        <target>Friends of Betoken</target>
       </trans-unit>
       <trans-unit id="headerFundingText5">
         <source>page.</source>
-        <target>amigos de Betoken.</target>
+        <target>page.</target>
       </trans-unit>
       <trans-unit id="fundingPoweredByKyber">
         <source>Powered by Kyber Network</source>
-        <target>Alimentado por Kyber Network</target>
+        <target>Powered by Kyber Network</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardTitle">
         <source>Choose your reward</source>
-        <target>Escolha sua recompensa</target>
+        <target>Choose your reward</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardSubtitle1">
         <source>Pledge $10 or more</source>
-        <target>Oferecer $10 ou mais</target>
+        <target>Pledge $10 or more</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardFriendsPageYourName">
         <source>Your name in the</source>
-        <target>Seu nome na</target>
+        <target>Your name in the</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardFriendsOfBetokenLink">
         <source>friends of Betoken</source>
-        <target>página amigos de Betoken</target>
+        <target>Friends of Betoken</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardFriendsPageIfDesired">
         <source>page (if desired).</source>
-        <target>(se desejado).</target>
+        <target>page (if desired).</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardSubtitle3">
         <source>Pledge $100 or more</source>
-        <target>Oferecer $100 ou mais</target>
+        <target>Pledge $100 or more</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardThankYouTokenText1">
         <source>Receive a special "Thank you" token that unlocks a special badge on the</source>
-        <target>Receba um token especial de agradecimento que desbloqueia um bagde no</target>
+        <target>特別なバッジのロックを解除する「Thank you」トークンを受け取ります</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardRankingManagersLink">
         <source>Ranking Managers</source>
-        <target>Ranking de Gestores.</target>
+        <target>Ranking Managers</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardThankYouTokenText-3">
         <source>page. If you are or plan to be a Betoken fund manager, everyone will be able to see that you're a Betoken Champion in the managers ranking page.</source>
-        <target>Se você é ou planeja ser um gestor de fundos Betoken, todos poderão ver que você é um Campeão Betoken na página do Ranking de Gestores.</target>
+        <target>あなたがBetokenファンドマネージャーであるか、またその計画をしている場合、マネージャーのランキングページで誰もがあなたが寄付者であることを確認できます。</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardEarlyAccess">
         <source>Early access to new features.</source>
-        <target>Acesso antecipado a novos recursos.</target>
+        <target>新機能への早期アクセス。</target>
       </trans-unit>
       <trans-unit id="BetokenChampion">
         <source>Betoken Champion</source>
-        <target>Campeão Betoken</target>
+        <target>Betoken Champion</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardSubtitle5">
         <source>Pledge $500 or more</source>
-        <target>Oferecer $500 ou mais</target>
+        <target>Pledge $500 or more</target>
       </trans-unit>
       <trans-unit id="funding500ChooseYourRewardFriendsPageText1">
         <source>Your name and logo in the Companies or Individuals of the</source>
-        <target>Seu nome e logotipo no Empresas ou Indivíduos do</target>
-        <note>of the?</note>
+        <target>会社または個人の名前とロゴ</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardTwtMention">
         <source>Personal mention on Twitter and on social media by the Betoken team (if desired).</source>
-        <target>Menção no Twitter e nas redes sociais pela equipe Betoken (se desejado).</target>
+        <target>TwitterおよびソーシャルメディアでのBetokenチームによる言及（必要に応じて）。</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardSubtitle6">
         <source>Top 10 supporters • Hall of Fame</source>
-        <target>Top 10 colaboradores • Hall da Fama</target>
+        <target>トップ10サポーター • 殿堂</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardSubtitle7">
         <source>Pledge $1,000 or more</source>
-        <target>Oferecer $1,000 ou mais</target>
+        <target>Pledge $1,000 or more</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardFriendsPageText1">
         <source>Your name in the Hall of Fame section of the</source>
-        <target>Seu nome no Hall da Fama do</target>
+        <target>殿堂セクションのあなたの名前</target>
       </trans-unit>
       <trans-unit id="fundingWhatThisFundIsTitle">
         <source>What this fund is</source>
-        <target>O que esse fundo é</target>
+        <target>What this fund is</target>
       </trans-unit>
       <trans-unit id="fundingWhatThisFundIsText1">
         <source>This is the general development fund intended to cover costs related to Betoken’s development. While the team may not have visibility on every particular need that will arise, all donated funds will be used towards Betoken’s technical development and new security audits.</source>
-        <target>Este é o fundo geral de desenvolvimento destinado a cobrir os custos relacionados ao desenvolvimento de Betoken. Embora a equipe possa não ter visibilidade de todas as necessidades específicas que surgirem, todos os fundos doados serão usados no desenvolvimento técnico de Betoken e em novas auditorias de segurança.</target>
+        <target>これはBetokenの開発に関連する費用を賄うための一般的な開発基金です。チームは、発生する特定のニーズをすべて把握できるわけではありませんが、寄付された資金はすべて、Betokenの技術開発と新しいセキュリティ監査に使用されます。</target>
       </trans-unit>
       <trans-unit id="fundingWhatThisFundIsText2">
         <source>This fund is managed entirely by the Betoken Technical Council, and all spending decisions will be made public. The funds are kept in a Multisig wallet, meaning no spending can occur without at least 2 council members actively signing the transaction.</source>
-        <target>Este fundo é administrado inteiramente pelo Conselho Técnico Betoken, e todas as decisões de gastos serão tornadas públicas. Os fundos são mantidos em uma carteira Multisig, o que significa que nenhum gasto pode ocorrer sem pelo menos dois membros do conselho assinarem ativamente a transação.</target>
+        <target>この基金はBetoken Technical Councilによって管理されており、すべての支出決定は公開されます。資金はMultisigウォレットに保持されます。つまり、少なくとも2人が取引に署名しない限り、支出は発生しません。</target>
       </trans-unit>
       <trans-unit id="fundingWhatThisFundIsText3">
         <source>While the main goal is funding the ongoing professional security audit, you'll find below some other examples of where proceeds of this fund might be allocated (by no means exhaustive and subject to change):</source>
-        <target>Embora o objetivo principal seja o financiamento da auditoria de segurança profissional em andamento, você encontrará abaixo outros exemplos de onde os recursos desse fundo podem ser alocados (de maneira alguma exaustivos e sujeitos a alterações):</target>
+        <target>主な目標は専門家のセキュリティ監査に資金を提供することですが、この資金がどこに割り当てられるかについての例を以下に示します（決して網羅的ではなく、変更される可能性があります）。</target>
       </trans-unit>
       <trans-unit id="fundingWhatThisFundIsText4">
         <source>Service fees related to build and deployment infrastructure</source>
-        <target>Taxas de serviço relacionadas à infraestrutura de construção e implantação</target>
+        <target>インフラストラクチャの構築と展開に関連するサービス料金</target>
       </trans-unit>
       <trans-unit id="fundingWhatThisFundIsText5">
         <source>Contributing to a second security audit or other specific development work if required</source>
-        <target>Contribuir para uma segunda auditoria de segurança ou outro trabalho de desenvolvimento específico, se necessário</target>
+        <target>必要に応じて2回目のセキュリティ監査またはその他の特定の開発作業</target>
       </trans-unit>
       <trans-unit id="fundingWhatThisFundIsText6">
         <source>Legal support as and when needed</source>
-        <target>Suporte jurídico se e quando necessário</target>
+        <target>必要に応じた法的サポート</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesTitle">
         <source>Betoken’s Community Funding Principles</source>
-        <target>Princípios de financiamento comunitário Betoken</target>
+        <target>Betokenのコミュニティ資金調達の原則</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesTitleMobile">
         <source>Betoken’s Community Funding Principles</source>
-        <target>Princípios de financiamento comunitário Betoken</target>
+        <target>Betokenのコミュニティ資金調達の原則</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText1">
         <source>is currently being created by a group of developers dedicated to the realisation of a reliable and functional crowd-powered assets management protocol. We are building it because we’re excited about cryptoeconomics, governance system and the possibilities that they offer.</source>
-        <target>está sendo criado por um grupo de desenvolvedores dedicados à realização de um protocolo de gerenciamento de ativos crowd-powered, confiável e funcional. Estamos construindo isso porque estamos entusiasmados com a criptoeconomia, com o sistema de governança e as possibilidades que eles oferecem.</target>
-        <note>the principles are being created or something else?</note>
+        <target>現在、信頼性が高く機能的なクラウドベースの資産管理プロトコルの実現に専念している開発者グループによって作成されています。暗号経済学、ガバナンスシステム、およびそれらが提供する可能性に興奮して、私たちは構築しています。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText2">
         <source>Unlike the vast majority of blockchain projects, Betoken's development is not motivated by greed for either its developers or early adopters. As a measure of this, the project has pledged that:</source>
-        <target>Diferentemente da grande maioria dos projetos de blockchain, o desenvolvimento de Betoken não é motivado pela ganância de seus desenvolvedores ou de seus primeiros usuários. Como medida disso, o projeto promete que:</target>
+        <target>大部分のブロックチェーンプロジェクトとは異なり、Betokenの開発は、開発者または早期導入者に対する権利によって動機付けられていません。\nこの尺度として、プロジェクトは次のことを誓約しました。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText3">
         <source>Betoken will not engage in an ICO.</source>
-        <target>Betoken não participará de uma ICO.</target>
+        <target>BetokenはICOに関与しません。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText4">
         <source>Betoken's launch will be pre-announced, open, and fair. There will be no pre-minted coins or any other funny business. The only avantage of the early users are for those who participate as beta tester of our Rinkeby Testnet app. They'll be able to redeem their testnet Kairo tokens on Mainnet.</source>
-        <target>O lançamento de Betoken será pré-anunciado, aberto e justo. Não haverá moedas pré-existentes ou qualquer outra bobeira. A única vantagem dos usuários iniciais é para aqueles que participam como testador beta do nosso aplicativo Rinkeby Testnet. Eles poderão resgatar seus tokens Kairo da testnet na Mainnet.</target>
+        <target>Betokenのローンチは、事前に発表され、オープンで、公正です。事前に鋳造されたコインやその他の営利的なビジネスはありません。初期ユーザーの唯一の利点は、Rinkeby Testnetアプリのベータテスターとして参加しているユーザー向けです。彼らはメインネットでテストネットKROトークンを引き換えることができます。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText5">
         <source>In order to providing funding for its maintenance and future development on Mainnet, Betoken will mint Betoken Shares and send them to the current development team. The amount will be equal to 0.1% of the current Betoken Shares total supply, and it will occur at the end of every investment cycle.</source>
-        <target>Para fornecer financiamento para sua manutenção e desenvolvimento futuro na Mainnet, Betoken criará tokens de Compartilhamento e os enviará para a atual equipe de desenvolvimento. O valor será igual a 0,1% da oferta total atual dos tokens de Compartilhamento Betoken e ocorrerá no final de cada ciclo de investimento.</target>
+        <target>Mainnetでのメンテナンスと将来の開発資金を提供するために、BetokenはBTKSを作成し、現在の開発チームに送信します。この金額は、現在のBTKSの総供給量の0.1％に等しくなり、すべての投資サイクルの終わりに発生します。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText5-1">
         <source>Find out more about Betoken's fees structure</source>
-        <target>Saiba mais sobre a estrutura de taxas de Betoken</target>
+        <target>Betokenの手数料体系の詳細をご覧ください</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText6">
         <source>Betoken developers will not seek or accept any capital that comes with the expectation of future monetary return.</source>
-        <target>Os desenvolvedores Betoken não buscarão nem aceitarão capital que venha com a expectativa de retorno monetário futuro.</target>
+        <target>Betoken開発者は、将来の金銭的利益が期待される資本を求めたり、受け入れたりしません。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText7">
         <source>Betoken will not seek or accept any capital that comes with the expectation of being able to unduly influence Betoken’s decision-making process.</source>
-        <target>Betoken não buscará nem aceitará nenhum capital que venha com a expectativa de poder influenciar indevidamente nos processos de tomada de decisão.</target>
+        <target>Betokenは、Betokenの意思決定プロセスに不当に影響を与えることができると期待される資本を求めたり、受け入れたりしません。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText8">
         <source>Thus far, Betoken’s development has been mostly a part-time effort, with</source>
-        <target>Até agora, o desenvolvimento de Betoken tem sido principalmente um esforço de meio período, com</target>
+        <target>これまでのところ、Betokenの開発はほとんどがパートタイムの努力であり、</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText8-1">
         <source>volunteers</source>
-        <target>voluntários</target>
+        <target>ボランティア</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText8-2">
         <source>contributing their code, design, ideas on an ad-hoc basis. This will continue in any event, but the reality is that a project of Betoken’s scope would be greatly helped by having a source of funding. This would allow Betoken to reach its potential more quickly, more reliably, with better supporting infrastructure, and with a far greater chance of success competing against (or co-existing with) well-funded blockchain projects.</source>
-        <target>contribuindo com seu código, design e idéias em uma base ad-hoc. Isso continuará de qualquer forma, mas a realidade é que em um projeto desse escopo, seria de muita ajuda ter uma fonte de financiamento. Isso permitiria que Betoken atingisse seu potencial mais rapidamente, de forma mais confiável, com melhor infraestrutura de suporte e com uma chance muito maior de sucesso competindo contra (ou coexistindo com) projetos de blockchain bem financiados.</target>
+        <target>アドホックベースでコード、デザイン、アイデアを提供します。いずれにしてもこれは継続しますが、資金源を持つことで大いに助けられるでしょう。これによりBetokenは、インフラストラクチャのサポートが向上し、十分に資金を供給されたブロックチェーンプロジェクトと競合する（または共存する）可能性がはるかに高くなり、より迅速かつ確実にその可能性に到達できます。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText9">
         <source>To keep Betoken open and free from controlling influences, the project will attempt to rely 100% on community donations for its funding needs. We ask any person, corporate entity or institution who sees potential in Betoken protocol to consider donating to the project, and we hope that the vibrant cryptocurrency community will help Betoken in achieving its goal of providing an open-source, community-owned, permissionless, and censorship-resistant that truly belongs to everyone.</source>
-        <target>Para manter Betoken funcionando e livre de influências controladoras, o projeto tentará se manter 100% nas doações da comunidade para suas necessidades de financiamento. Pedimos a qualquer pessoa, entidade corporativa ou instituição que vê potencial no protocolo Betoken que considere doar para o projeto, e esperamos que a vibrante comunidade de criptomoedas ajude Betoken a alcançar seu objetivo de fornecer um código aberto, de propriedade da comunidade, sem permissão, e resistente à censura que realmente pertence a todos.</target>
+        <target>Betokenをオープンに保ち影響力を制御されないようにするために、資金調達についてコミュニティの寄付に100％頼ることを試みます。\nBetokenプロトコルに潜在力があると思われる個人、企業体、または機関にプロジェクトへの寄付を検討していただき、活気のある暗号通貨コミュニティが、オープンソース、コミュニティ所有、パーミッションレス、検閲耐性を備えるBetokenを発展できるよう試みます。</target>
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenTitle">
         <source>Friends of Betoken</source>
-        <target>Amigos de Betoken</target>
+        <target>Friends of Betoken</target>
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenText1">
         <source>We believe that any donors, large or small, should be given recognition for their contribution. Any individual donor who wishes to be listed on our</source>
-        <target>Acreditamos que qualquer doador, grande ou pequeno, deve receber reconhecimento por sua contribuição. Qualquer doador individual que deseje ser listado na nossa página</target>
+        <target>私たちは、大小を問わずすべての寄付者が認められるべきだと考えています。私達にリストされることを望む個々のドナー</target>
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenText1-2">
         <source>Friends of Betoken</source>
-        <target>Amigos de Betoken</target>
+        <target>Friends of Betoken</target>
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenText1-3">
         <source>page will be listed, and any corporate or institutional Donors making a significant contribution to Betoken's development will have their logo displayed (if desired).</source>
-        <target>serão listados e quaisquer Doadores corporativos ou institucionais que fizerem uma contribuição significativa para o desenvolvimento de Betoken terão seu logotipo exibido (se desejado).</target>
+        <target>ページが一覧表示され、Betokenの開発に大きく貢献している企業または機関の寄付者のロゴが表示されます（必要に応じて）。</target>
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenText2">
         <source>We are also happy to accept recurring sponsorships and acknowledge your support prominently on our Friends of Betoken page. However, as per our pledges above, we cannot accept sponsorships or donations predicated on being able to unduly influence Betoken’s direction.</source>
-        <target>Também ficaremos felizes em aceitar patrocínios recorrentes e agradecemos seu apoio com destaque na nossa página Amigos de Betoken. No entanto, conforme nossas promessas acima, não podemos aceitar patrocínios ou doações baseadas em poder influenciar indevidamente a direção de Betoken.</target>
+        <target>また、定期的なスポンサーシップを受け入れ、Betokenのフレンドページであなたのサポートを際立てます。ただし、上記の誓約に従って、Betokenの方向に不当に影響を与えることができることを前提としたスポンサーシップや寄付を受け入れることはできません。</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsTile">
         <source>Donation Format</source>
-        <target>Formato de Doação</target>
+        <target>Donation Format</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText1">
         <source>As in all things Betoken, we want to ensure that the funding process remains as transparent as all other aspects of the project. To this end, Betoken will actively seek community funding via</source>
-        <target>Como em tudo, queremos garantir que o processo de financiamento permaneça tão transparente quanto todos os outros aspectos do projeto. Para este fim, Betoken buscará ativamente financiamento comunitário através de</target>
+        <target>Betokenの資金調達プロセスが、プロジェクトの他のすべての側面と同様に透明性を保つようにします。この目的のために、Betokenは積極的にコミュニティの資金を求めます</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText1-2">
         <source>a general fund</source>
-        <target>um fundo geral</target>
+        <target>a general fund</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText1-3">
         <source>, proceeds of which will be allocated by Betoken’s technical council according to project need.</source>
-        <target>, cuja receita será alocada pelo conselho técnico Betoken de acordo com a necessidade do projeto.</target>
+        <target>その資金は、プロジェクトのニーズに応じてBetoken technical councilによって割り当てられます。</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText2">
         <source>The general fund will be allocated by the Betoken developers as needs are identified, with all spending decisions posted and made public. Betoken's developers will update the community on progress.</source>
-        <target>O fundo geral será alocado pelos desenvolvedores de Betoken à medida que as necessidades forem identificadas, com todas as decisões de gastos publicadas e divulgadas. Os desenvolvedores de Betoken atualizarão a comunidade sobre o progresso.</target>
+        <target>一般的な基金は、必要性が特定されたときにBetoken開発者によって割り当てられ、すべての支出決定が公開されます。 Betoken開発者は、進行中のコミュニティに更新します。</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText3">
         <source>Since Betoken doesn’t currently have a foundation, general donations will go into the developers' multisig wallet. This may change as Betoken’s</source>
-        <target>Como Betoken atualmente não possui uma fundação, doações gerais serão direcionadas à carteira multisig dos desenvolvedores. Isso pode mudar conforme</target>
+        <target>現在一般的な寄付は開発者のマルチシグウォレットに送られます。これはコミュニティ所有のBetokenのものに変更されます。</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText3-1">
         <source>governance model</source>
-        <target>modelo de governança Betoken</target>
+        <target>ガバナンスモデル</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText3-2">
         <source>allows the community to choose another developer team</source>
-        <target>permite que a comunidade escolha outra equipe de desenvolvedores</target>
+        <target>コミュニティが別の開発者チームを選択できるようにします</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText4">
         <source>Donors and sponsors should understand that the funds donated will always go towards the advancement of Betoken.</source>
-        <target>Doadores e patrocinadores devem entender que os fundos doados sempre serão direcionados ao avanço de Betoken.</target>
+        <target>寄付者とスポンサーは、寄付された資金が常にBetokenの進歩に向けられることを理解する必要があります。</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText5">
         <source>Developers will provide weekly updates on progress via the main social media channels of Betoken.</source>
-        <target>Os desenvolvedores fornecerão atualizações semanais sobre o progresso através dos principais canais de mídia social de Betoken.</target>
+        <target>開発者は、Betokenの主要なソーシャルメディアチャネルを通じて、進捗状況を毎週更新します。</target>
       </trans-unit>
       <trans-unit id="fundingDisclaimerTitle">
         <source>Disclaimer</source>
-        <target>Isenção de Responsabilidade</target>
+        <target>免責事項</target>
       </trans-unit>
       <trans-unit id="fundingDisclaimerText1">
         <source>The Betoken project is still very young and is still experimenting with the details of its funding model. Some or all of the details above, and even our overall approach may change as the project evolves, however we will always strive to ensure that our funding model reflects the principles of openness and fairness on which the project was founded.</source>
-        <target>O projeto Betoken ainda é muito jovem e ainda está experimentando os detalhes de seu modelo de financiamento. Alguns ou todos os detalhes acima e até nossa abordagem geral podem mudar à medida que o projeto evolui, no entanto, sempre nos esforçaremos para garantir que nosso modelo de financiamento reflita os princípios de abertura e justiça nos quais o projeto foi fundado.</target>
+        <target>Betokenプロジェクトは非常に若く、資金調達モデルの詳細をまだ実験中です。上記の詳細の一部またはすべて、およびプロジェクト全体のアプローチでさえプロジェクトの発展に伴って変更される可能性がありますが、資金調達モデルがプロジェクトの設立に基づいた開放性と公正性の原則を反映するように常に努めます。</target>
       </trans-unit>
       <trans-unit id="fundingBtcAddressTitle">
         <source>Bitcoin donation address</source>
-        <target>endereço de doação Bitcoin</target>
+        <target>Bitcoin寄付アドレス</target>
       </trans-unit>
       <trans-unit id="fundingBtcAddressText1">
         <source>Funds donated in Bitcoin will be converted to DAI shortly after for simplicity of accounting.</source>
-        <target>Os fundos doados em Bitcoin serão convertidos em DAI logo após, para simplificar a contabilidade.</target>
+        <target>ビットコインで寄付された資金は、会計処理を簡単にするため、すぐにDAIに変換されます。</target>
       </trans-unit>
       <trans-unit id="fundingEthAddressTitle">
         <source>Ethereum donation address</source>
-        <target>endereço de doação Ethereum</target>
+        <target>Ethereum寄付アドレス</target>
       </trans-unit>
       <trans-unit id="fundingEthAddressText1">
         <source>Funds donated in Ethereum will be converted to DAI shortly after for simplicity of accounting.</source>
-        <target>Os fundos doados em Ethereum serão convertidos em DAI logo após, para simplificar a contabilidade.</target>
+        <target>イーサリアムで寄付された資金は、会計処理を簡単にするため、すぐにDAIに変換されます。</target>
       </trans-unit>
       <trans-unit id="fundingZecAddressTitle">
         <source>Zcash donation address</source>
-        <target>endereço de doação Zcash</target>
+        <target>Zcash寄付アドレス</target>
       </trans-unit>
       <trans-unit id="fundingZecAddressText1">
         <source>Funds donated in Zcash will be converted to DAI shortly after for simplicity of accounting.</source>
-        <target>Os fundos doados em Zcash serão convertidos em DAI logo após, para simplificar a contabilidade.</target>
+        <target>Zcashで寄付された資金は、会計処理を簡単にするため、すぐにDAIに変換されます。</target>
       </trans-unit>
       <trans-unit id="fundingCommunityFundAddress">
         <source>Community Fund's address</source>
-        <target>endereço do Fundo Comunitário</target>
+        <target>Community Fund's address</target>
       </trans-unit>
       <trans-unit id="navHelp">
         <source>Help</source>
-        <target>Ajuda</target>
+        <target>Help</target>
       </trans-unit>
       <trans-unit id="navFriends">
         <source>Friends</source>
-        <target>Amigos</target>
+        <target>Friends</target>
       </trans-unit>
       <trans-unit id="navBlog">
         <source>Blog</source>
@@ -709,35 +703,35 @@
       </trans-unit>
       <trans-unit id="signUp">
         <source>Sign Up</source>
-        <target>Inscrever-se</target>
+        <target>Sign Up</target>
       </trans-unit>
       <trans-unit id="modalNewsletterPretitle">
         <source>Betoken Report</source>
-        <target>Relatório Betoken</target>
+        <target>Betoken Report</target>
       </trans-unit>
       <trans-unit id="modalNewsletterTitle">
         <source>Get notified by email</source>
-        <target>Receba notificações por e-mail</target>
+        <target>e-mailで通知を受ける</target>
       </trans-unit>
       <trans-unit id="modalNewsletterText">
         <source>Be the first to know about new investments cycles and Betoken's next big things 👇.</source>
-        <target>Seja o primeiro a saber sobre os novos ciclos de investimentos e sobre as novidades de Betoken 👇.</target>
+        <target>新しい投資サイクルとBetokenの更新ついて最初に知る👇</target>
       </trans-unit>
       <trans-unit id="subscribeNewsletterPlaceholder">
         <source>myemail@address.com</source>
-        <target>meuemail@endereço.com</target>
+        <target>myemail@address.com</target>
       </trans-unit>
       <trans-unit id="navHome">
         <source>Home</source>
-        <target>Início</target>
+        <target>Home</target>
       </trans-unit>
       <trans-unit id="navFunding">
         <source>Funding</source>
-        <target>Financiamento</target>
+        <target>Funding</target>
       </trans-unit>
       <trans-unit id="navFees">
         <source>Fees &amp; liquidity</source>
-        <target>Taxas e liquidez</target>
+        <target>Fees &amp; liquidity</target>
       </trans-unit>
       <trans-unit id="navWhitePaper">
         <source>White Paper</source>
@@ -745,63 +739,63 @@
       </trans-unit>
       <trans-unit id="navPretitleSignup">
         <source>Be part of the open finance</source>
-        <target>Faça parte do financiamento aberto</target>
+        <target>Be part of the open finance</target>
       </trans-unit>
       <trans-unit id="navPrivacyPolicy">
         <source>Privacy policy</source>
-        <target>Política de Privacidade</target>
+        <target>Privacy policy</target>
       </trans-unit>
       <trans-unit id="navSendFeedback">
         <source>Send feedback</source>
-        <target>Envie um feedback</target>
+        <target>Send feedback</target>
       </trans-unit>
       <trans-unit id="alertPrivacy1">
         <source>By using this website, you agree to our</source>
-        <target>Ao usar esse site, você concorda com a nossa</target>
+        <target>By using this website, you agree to our</target>
       </trans-unit>
       <trans-unit id="alertPrivacy2">
         <source>privacy policy</source>
-        <target>política de privacidade</target>
+        <target>privacy policy</target>
       </trans-unit>
       <trans-unit id="footerCodeOnGithubText">
         <source>Don't trust our words, trust our code. The Betoken protocol is available on</source>
-        <target>Não confie em nossas palavras, confie em nosso código. O protocolo Betoken está disponível em</target>
+        <target>Don't trust our words, trust our code. The Betoken protocol is available on</target>
       </trans-unit>
       <trans-unit id="footerCommunityTitle">
         <source>Join our community</source>
-        <target>Junte-se à nossa comunidade</target>
+        <target>Join our community</target>
       </trans-unit>
       <trans-unit id="subscribeNewsletterTitle">
         <source>Subscribe to the Betoken Report</source>
-        <target>Assine o Relatório Betoken</target>
+        <target>Subscribe to the Betoken Report</target>
       </trans-unit>
       <trans-unit id="footerDisclaimerTitle">
         <source>Disclaimer</source>
-        <target>Insenção de Responsabilidade</target>
+        <target>免責事項</target>
       </trans-unit>
       <trans-unit id="footerDisclaimerText1">
         <source>Nothing herein constitutes an offer to sell, or the solicitation of an offer to buy, any securities or tokens.</source>
-        <target>Nada aqui constitui uma oferta de venda ou a solicitação de uma oferta de compra, nenhum título ou tokens.</target>
+        <target>ここのいかなる文言も、有価証券またはトークンの販売の申し出、または購入の勧誘を構成するものではありません。</target>
       </trans-unit>
       <trans-unit id="footerDisclaimerText2">
         <source>Betoken enables capital connection and managing using smart contracts which are open source. Betoken does not take custody of tokens and is only a collaborative hub for investors and managers. Betoken is not a licensed bank, broker-dealer, investment advisor or an exchange. Betoken uses partner protocols (Kyber, Compound, bZx, Maker DAO) to power its own ecosystem.</source>
-        <target>Betoken permite conexão e gerenciamento de capital usando contratos inteligentes de código aberto. Betoken não assume a custódia de tokens e é apenas um centro de colaboração para investidores e gestores. Betoken não é um banco licenciado, corretor, consultor de investimentos ou uma bolsa. Betoken usa protocolos de parceiros (Kyber, Compound, bZx, Maker DAO) para alimentar seu próprio ecossistema.</target>
+        <target>Betokenは、オープンソースのスマートコントラクトを使用した資金接続と管理を可能にします。 Betokenはトークンの管理を行っておらず、投資家とマネジャーの共同ハブにすぎません。 Betokenは、認可銀行、ブローカーディーラー、投資顧問または取引所ではありません。 Betokenは、パートナープロトコル（Kyber、Compound、bZx、Maker DAO）を使用して独自のエコシステムを強化しています。</target>
       </trans-unit>
       <trans-unit id="footerDisclaimerText3">
         <source>💀 This project is in beta. Use at your own risk.</source>
-        <target>💀Este projeto está em beta. Use por sua conta e risco.</target>
+        <target>💀 このプロジェクトはベータ版です。利用は自己責任です。</target>
       </trans-unit>
       <trans-unit id="headerLanguageModalTitle">
         <source>Switch to another language</source>
-        <target>Alterar idioma</target>
+        <target>言語変更</target>
       </trans-unit>
       <trans-unit id="modalAriaLabelClose">
         <source>Close</source>
-        <target>Fechar</target>
+        <target>Close</target>
       </trans-unit>
       <trans-unit id="headerLanguageModalAriaDescribedby">
         <source>Switch to another language</source>
-        <target>Alterar idioma</target>
+        <target>言語変更</target>
       </trans-unit>
     </body>
   </file>
