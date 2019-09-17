@@ -143,13 +143,13 @@
               "browserTarget": "betoken-landing-page:build:production"
             },
             "zh-Hans": {
-              "browserTarget": "Betoken:build:zh-Hans"
+              "browserTarget": "betoken-landing-page:build:zh-Hans"
             },
             "ja": {
-              "browserTarget": "Betoken:build:ja"
+              "browserTarget": "betoken-landing-page:build:ja"
             },
             "pt": {
-              "browserTarget": "Betoken:build:pt"
+              "browserTarget": "betoken-landing-page:build:pt"
             }
           }
         },
