@@ -797,6 +797,14 @@
         <source>Switch to another language</source>
         <target>言語変更</target>
       </trans-unit>
+      <trans-unit id="InvestorlinkToStart">
+        <source>https://betoken.fund/portal/#/start</source>
+        <target>https://betoken.fund/portal/ja/#/start</target>
+      </trans-unit>
+      <trans-unit id="ManagerlinkToStart">
+        <source>https://betoken.fund/portal/#/start-managing</source>
+        <target>https://betoken.fund/portal/ja/#/start-managing</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>

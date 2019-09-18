@@ -803,6 +803,14 @@
         <source>Switch to another language</source>
         <target>Alterar idioma</target>
       </trans-unit>
+      <trans-unit id="InvestorlinkToStart">
+        <source>https://betoken.fund/portal/#/start</source>
+        <target>https://betoken.fund/portal/pt/#/start</target>
+      </trans-unit>
+      <trans-unit id="ManagerlinkToStart">
+        <source>https://betoken.fund/portal/#/start-managing</source>
+        <target>https://betoken.fund/portal/pt/#/start-managing</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
