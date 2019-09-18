@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="signIn">
         <source>Sign in</source>
-        <target>Iniciar sessão</target>
+        <target>Entrar</target>
       </trans-unit>
       <trans-unit id="homeStatsAUM">
         <source>Assets Under Management</source>
@@ -709,7 +709,7 @@
       </trans-unit>
       <trans-unit id="signUp">
         <source>Sign Up</source>
-        <target>Inscrever-se</target>
+        <target>Cadastrar</target>
       </trans-unit>
       <trans-unit id="modalNewsletterPretitle">
         <source>Betoken Report</source>
