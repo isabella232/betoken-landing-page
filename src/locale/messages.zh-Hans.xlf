@@ -207,7 +207,7 @@
       </trans-unit>
       <trans-unit id="homeSafeTitle">
         <source>You are in safe hands</source>
-        <target>你在安全的手中</target>
+        <target>您在安全的手中</target>
       </trans-unit>
       <trans-unit id="homeSafeText">
         <source>Remain always in control of your funds. Built and audited by the best.</source>
@@ -279,7 +279,7 @@
       </trans-unit>
       <trans-unit id="homeFundingTitle">
         <source>Funding</source>
-        <target>资金</target>
+        <target>社区融资</target>
       </trans-unit>
       <trans-unit id="homeFundingText1">
         <source>Betoken is launched fairly — free of ICO or pre-minted tokens. We rely on donations. If you’re an individual, company or institution excited about the potential of Betoken, we humbly ask if you’d consider making a financial contribution to the project’s development. We’re experimenting with a 100% community-driven funding model.</source>
@@ -319,7 +319,7 @@
       </trans-unit>
       <trans-unit id="homeOpenMovementText5">
         <source>chatroom</source>
-        <target>社区</target>
+        <target>社区成员</target>
       </trans-unit>
       <trans-unit id="headerOverviewPreTitle">
         <source>Overview</source>
@@ -379,7 +379,7 @@
       </trans-unit>
       <trans-unit id="friendsIndividualsCtaYourNameHere">
         <source>Your name here</source>
-        <target>你的名字？</target>
+        <target>您的名字？</target>
       </trans-unit>
       <trans-unit id="friendsCompaniesTitle">
         <source>Companies</source>
@@ -387,7 +387,7 @@
       </trans-unit>
       <trans-unit id="friendsCompaniesCtaYourLogoHere">
         <source>Your logo here</source>
-        <target>你的logo？</target>
+        <target>您的logo？</target>
       </trans-unit>
       <trans-unit id="friendsAnonymousTitle">
         <source>Anonymous Supporters</source>
@@ -411,11 +411,11 @@
       </trans-unit>
       <trans-unit id="headerFundingTitle">
         <source>Community Funding</source>
-        <target>社区资金</target>
+        <target>社区融资</target>
       </trans-unit>
       <trans-unit id="headerFundingTitleMobile">
         <source>Community Funding</source>
-        <target>社区资金</target>
+        <target>社区融资</target>
       </trans-unit>
       <trans-unit id="headerFundingText1">
         <source>This is a</source>
@@ -459,7 +459,7 @@
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardFriendsPageIfDesired">
         <source>page (if desired).</source>
-        <target>页面（如果你想）</target>
+        <target>页面（若希望）</target>
       </trans-unit>
       <trans-unit id="fundingChooseYourRewardSubtitle3">
         <source>Pledge $100 or more</source>
@@ -547,6 +547,7 @@
       </trans-unit>
       <trans-unit id="fundingPrinciplesText1">
         <source>is currently being created by a group of developers dedicated to the realisation of a reliable and functional crowd-powered assets management protocol. We are building it because we’re excited about cryptoeconomics, governance system and the possibilities that they offer.</source>
+        <target>目前由一组致力于实现可靠且功能强大的群众资产管理平台的开发人员创造。 我们正在建设它的理由，是因为我们对加密经济学，参政系统及其提供的可能性感到兴奋。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText2">
         <source>Unlike the vast majority of blockchain projects, Betoken's development is not motivated by greed for either its developers or early adopters. As a measure of this, the project has pledged that:</source>
@@ -570,6 +571,7 @@
       </trans-unit>
       <trans-unit id="fundingPrinciplesText6">
         <source>Betoken developers will not seek or accept any capital that comes with the expectation of future monetary return.</source>
+        <target>Betoken 开发团队不会寻求或接受任何预期未来金钱回报的资本。</target>
       </trans-unit>
       <trans-unit id="fundingPrinciplesText7">
         <source>Betoken will not seek or accept any capital that comes with the expectation of being able to unduly influence Betoken’s decision-making process.</source>
@@ -589,6 +591,7 @@
       </trans-unit>
       <trans-unit id="fundingPrinciplesText9">
         <source>To keep Betoken open and free from controlling influences, the project will attempt to rely 100% on community donations for its funding needs. We ask any person, corporate entity or institution who sees potential in Betoken protocol to consider donating to the project, and we hope that the vibrant cryptocurrency community will help Betoken in achieving its goal of providing an open-source, community-owned, permissionless, and censorship-resistant that truly belongs to everyone.</source>
+        <target>为了使 Betoken 保持开放并且不受外来影响控制，该项目将尝试 100％ 依靠社区捐款来满足其资金需求。 我们请求任何看到 Betoken 协议潜力的个人，公司或组织考虑捐赠给该项目。我们希望充满活力的区块链社区将帮助 Betoken 实现其潜能。</target>
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenTitle">
         <source>Friends of Betoken</source>
@@ -596,6 +599,7 @@
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenText1">
         <source>We believe that any donors, large or small, should be given recognition for their contribution. Any individual donor who wishes to be listed on our</source>
+        <target>我们认为，任何大大小小的捐助者都应该得到承认。 任何个人捐赠者希望列入我们的</target>
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenText1-2">
         <source>Friends of Betoken</source>
@@ -603,6 +607,7 @@
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenText1-3">
         <source>page will be listed, and any corporate or institutional Donors making a significant contribution to Betoken's development will have their logo displayed (if desired).</source>
+        <target>页面将会被列入，并且任何大额捐助 Betoken 发展的公司或组织将能展示他们的 logo （若希望）。</target>
       </trans-unit>
       <trans-unit id="fundingFriendsOfBetokenText2">
         <source>We are also happy to accept recurring sponsorships and acknowledge your support prominently on our Friends of Betoken page. However, as per our pledges above, we cannot accept sponsorships or donations predicated on being able to unduly influence Betoken’s direction.</source>
@@ -614,6 +619,7 @@
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText1">
         <source>As in all things Betoken, we want to ensure that the funding process remains as transparent as all other aspects of the project. To this end, Betoken will actively seek community funding via</source>
+        <target>我们希望确保融资流程与 Betoken 的所有其他方面一样透明。 为此，Betoken 将积极寻求社区资助，通过</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText1-2">
         <source>a general fund</source>
@@ -621,6 +627,7 @@
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText1-3">
         <source>, proceeds of which will be allocated by Betoken’s technical council according to project need.</source>
+        <target>，捐赠款项将由 Betoken 的技术委员会根据项目需要进行分配。</target>
       </trans-unit>
       <trans-unit id="fundingDonationFormatsText2">
         <source>The general fund will be allocated by the Betoken developers as needs are identified, with all spending decisions posted and made public. Betoken's developers will update the community on progress.</source>
@@ -652,6 +659,7 @@
       </trans-unit>
       <trans-unit id="fundingDisclaimerText1">
         <source>The Betoken project is still very young and is still experimenting with the details of its funding model. Some or all of the details above, and even our overall approach may change as the project evolves, however we will always strive to ensure that our funding model reflects the principles of openness and fairness on which the project was founded.</source>
+        <target>Betoken 项目还很年轻，目前仍在试验其融资模式的细节。 上述的部分或全部细节，甚至我们的整体方法都可能随着项目的发展而变化，但我们将始终努力确保我们的融资模式反映自项目成立以来坚持的开放性和公平性原则。</target>
       </trans-unit>
       <trans-unit id="fundingBtcAddressTitle">
         <source>Bitcoin donation address</source>
@@ -719,7 +727,7 @@
       </trans-unit>
       <trans-unit id="navFunding">
         <source>Funding</source>
-        <target>资金</target>
+        <target>社区融资</target>
       </trans-unit>
       <trans-unit id="navFees">
         <source>Fees &amp; liquidity</source>
