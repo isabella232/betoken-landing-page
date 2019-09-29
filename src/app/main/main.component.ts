@@ -32,6 +32,7 @@ export class MainComponent extends ApolloEnabled implements OnInit {
           {
             fund(id: "BetokenFund") {
               aum
+              cyclePhase
               totalFundsAtPhaseStart
               sharesPrice
               managers(first: 1000) {
@@ -45,7 +46,7 @@ export class MainComponent extends ApolloEnabled implements OnInit {
         this.isLoading = loading;
 
         let fund = data['fund'];
-        this.roiOneMonth = new BigNumber(fund.aum).div(fund.totalFundsAtPhaseStart).minus(1).times(100);
+        this.roiOneMonth = fund.cyclePhase === 'INTERMISSION' ? new BigNumber(0) : new BigNumber(fund.aum).div(fund.totalFundsAtPhaseStart).minus(1).times(100);
         this.roiSinceInception = new BigNumber(fund.sharesPrice).minus(1).times(100);
         this.aum = new BigNumber(fund.aum);
         this.numOfManagers = new BigNumber(fund.managers.length);
