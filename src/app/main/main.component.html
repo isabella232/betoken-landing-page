@@ -116,8 +116,8 @@
                   <div class="col">
 
                     <!-- Title -->
-                    <h6 class="card-title text-uppercase text-muted mb-2" i18n="@@homeStatsRoiSinceInception">
-                      ROI (Since inception)
+                    <h6 class="card-title text-uppercase text-muted mb-2">
+                      APR
                     </h6>
 
                     <!-- Heading -->
@@ -126,7 +126,7 @@
                         <span class="sr-only" i18n="@@homeStatsLoading">Loading...</span>
                       </div>
                       <span *ngIf="!isLoading">
-                        {{roiSinceInception.toFormat(2)}}
+                        {{apr.toFormat(2)}}
                       </span>
                     </span>
                     <span class="h2 mb-0 mr-1">
