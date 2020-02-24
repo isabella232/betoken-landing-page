@@ -30,7 +30,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">585</context>
+          <context context-type="linenumber">711</context>
         </context-group>
       </trans-unit>
       <trans-unit id="startConnectCapitalText" datatype="html">
@@ -55,7 +55,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">272</context>
+          <context context-type="linenumber">398</context>
         </context-group>
       </trans-unit>
       <trans-unit id="startManagingText" datatype="html">
@@ -114,15 +114,15 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">556</context>
+          <context context-type="linenumber">682</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">561</context>
+          <context context-type="linenumber">687</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">604</context>
+          <context context-type="linenumber">730</context>
         </context-group>
       </trans-unit>
       <trans-unit id="headerHomePretitleSignIn" datatype="html">
@@ -149,26 +149,42 @@
                     </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">49</context>
+          <context context-type="linenumber">61</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeStatsLoading" datatype="html">
         <source>Loading...</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">56</context>
+          <context context-type="linenumber">68</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">83</context>
+          <context context-type="linenumber">95</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">114</context>
+          <context context-type="linenumber">126</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">146</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">188</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">215</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">243</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">272</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeStatsRoi1m" datatype="html">
@@ -177,16 +193,16 @@
                     </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">76</context>
+          <context context-type="linenumber">88</context>
         </context-group>
       </trans-unit>
-      <trans-unit id="homeStatsRoiSinceInception" datatype="html">
+      <trans-unit id="apy" datatype="html">
         <source>
-                      ROI (Since inception)
+                      APY
                     </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">107</context>
+          <context context-type="linenumber">119</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeStatsNbManagers" datatype="html">
@@ -195,7 +211,43 @@
                     </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">139</context>
+          <context context-type="linenumber">151</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homeManagementFee" datatype="html">
+        <source>
+                      Management fee
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">181</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homePerformanceFee" datatype="html">
+        <source>
+                      Performance fee
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">208</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homeRedemptionFee" datatype="html">
+        <source>
+                      Redemption fee
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">236</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homeLockupPeriod" datatype="html">
+        <source>
+                      Lock-up period
+                    </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/main/main.component.html</context>
+          <context context-type="linenumber">265</context>
         </context-group>
       </trans-unit>
       <trans-unit id="home2brainsTitle" datatype="html">
@@ -204,11 +256,11 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">168</context>
+          <context context-type="linenumber">294</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">178</context>
+          <context context-type="linenumber">304</context>
         </context-group>
       </trans-unit>
       <trans-unit id="home2brainsSubTitle" datatype="html">
@@ -217,11 +269,11 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">173</context>
+          <context context-type="linenumber">299</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">183</context>
+          <context context-type="linenumber">309</context>
         </context-group>
       </trans-unit>
       <trans-unit id="home2brainsText1" datatype="html">
@@ -231,7 +283,7 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">192</context>
+          <context context-type="linenumber">318</context>
         </context-group>
       </trans-unit>
       <trans-unit id="home2brainsText2" datatype="html">
@@ -241,7 +293,7 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">203</context>
+          <context context-type="linenumber">329</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenFundTitle" datatype="html">
@@ -250,11 +302,11 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">215</context>
+          <context context-type="linenumber">341</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">225</context>
+          <context context-type="linenumber">351</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenFundText" datatype="html">
@@ -263,32 +315,32 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">220</context>
+          <context context-type="linenumber">346</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">230</context>
+          <context context-type="linenumber">356</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeSitTitle" datatype="html">
         <source>Sit back and relax</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">238</context>
+          <context context-type="linenumber">364</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeSitText1" datatype="html">
         <source>Your capital is automatically distributed among Betoken’s</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">240</context>
+          <context context-type="linenumber">366</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeSitText2" datatype="html">
         <source>community of managers</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">240</context>
+          <context context-type="linenumber">366</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeSitText3" datatype="html">
@@ -296,21 +348,21 @@
           capital is put to work.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">240</context>
+          <context context-type="linenumber">366</context>
         </context-group>
       </trans-unit>
       <trans-unit id="illustrationSit" datatype="html">
         <source>sit</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">245</context>
+          <context context-type="linenumber">371</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeSaveTitle" datatype="html">
         <source>Save time &amp; effort</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">254</context>
+          <context context-type="linenumber">380</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeSaveText" datatype="html">
@@ -321,21 +373,21 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">256</context>
+          <context context-type="linenumber">382</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeCtaConnectCapital" datatype="html">
         <source>Deposit your capital</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">261</context>
+          <context context-type="linenumber">387</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeBestManagerTitle" datatype="html">
         <source>The best managers earn the most</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">266</context>
+          <context context-type="linenumber">392</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeBestManagerText1" datatype="html">
@@ -343,21 +395,21 @@
         reputation to them, denominated in</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">268</context>
+          <context context-type="linenumber">394</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeBestManagerText2" datatype="html">
         <source>Kairo tokens</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">270</context>
+          <context context-type="linenumber">396</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeBestManagerText3" datatype="html">
         <source>, and financially rewards them based on their talent and contributions.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">270</context>
+          <context context-type="linenumber">396</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentTitle" datatype="html">
@@ -366,80 +418,80 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">284</context>
+          <context context-type="linenumber">410</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">289</context>
+          <context context-type="linenumber">415</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle1" datatype="html">
         <source>User-owned, User-governed</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">301</context>
+          <context context-type="linenumber">427</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">330</context>
+          <context context-type="linenumber">456</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle2" datatype="html">
         <source>Active Management</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">306</context>
+          <context context-type="linenumber">432</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">341</context>
+          <context context-type="linenumber">467</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle3" datatype="html">
         <source>Full Collateralization</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">311</context>
+          <context context-type="linenumber">437</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">351</context>
+          <context context-type="linenumber">477</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle4" datatype="html">
         <source>70+ Assets</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">316</context>
+          <context context-type="linenumber">442</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">361</context>
+          <context context-type="linenumber">487</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentSubtitle5" datatype="html">
         <source>No limits, no hidden fees</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">321</context>
+          <context context-type="linenumber">447</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">370</context>
+          <context context-type="linenumber">496</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText1a" datatype="html">
         <source>Betoken&apos;s</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">332</context>
+          <context context-type="linenumber">458</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText1b" datatype="html">
         <source>governance system</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">333</context>
+          <context context-type="linenumber">459</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText1c" datatype="html">
@@ -448,7 +500,7 @@
               governed by the very people who use it and benefit from it—You.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">333</context>
+          <context context-type="linenumber">459</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText2" datatype="html">
@@ -459,7 +511,7 @@
             </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">342</context>
+          <context context-type="linenumber">468</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText3" datatype="html">
@@ -470,7 +522,7 @@
             </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">352</context>
+          <context context-type="linenumber">478</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText4" datatype="html">
@@ -480,7 +532,7 @@
             </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">362</context>
+          <context context-type="linenumber">488</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeHowBetokenDifferentText5" datatype="html">
@@ -489,14 +541,14 @@
             </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">371</context>
+          <context context-type="linenumber">497</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeCtaFees" datatype="html">
         <source>More about fees, lockup, and liquidity</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">374</context>
+          <context context-type="linenumber">500</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeSafeTitle" datatype="html">
@@ -505,11 +557,11 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">385</context>
+          <context context-type="linenumber">511</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">395</context>
+          <context context-type="linenumber">521</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeSafeText" datatype="html">
@@ -518,18 +570,18 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">390</context>
+          <context context-type="linenumber">516</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">400</context>
+          <context context-type="linenumber">526</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeNonCustodialTitle" datatype="html">
         <source>Non-custodial</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">411</context>
+          <context context-type="linenumber">537</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeNonCustodialText" datatype="html">
@@ -539,21 +591,21 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">413</context>
+          <context context-type="linenumber">539</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeAuditTitle" datatype="html">
         <source>Tested and audited smart contracts</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">421</context>
+          <context context-type="linenumber">547</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeAuditText1" datatype="html">
         <source>Betoken&apos;s smart contracts are audited and secured by</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">424</context>
+          <context context-type="linenumber">550</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeAuditText2" datatype="html">
@@ -561,7 +613,7 @@
           of your deposit.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">426</context>
+          <context context-type="linenumber">552</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenProtocolTitle" datatype="html">
@@ -570,11 +622,11 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">438</context>
+          <context context-type="linenumber">564</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">448</context>
+          <context context-type="linenumber">574</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenProtocolText" datatype="html">
@@ -583,11 +635,11 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">443</context>
+          <context context-type="linenumber">569</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">453</context>
+          <context context-type="linenumber">579</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenProtocolKyber" datatype="html">
@@ -597,7 +649,7 @@
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">476</context>
+          <context context-type="linenumber">602</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenProtocolBzx" datatype="html">
@@ -606,7 +658,7 @@
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">497</context>
+          <context context-type="linenumber">623</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenProtocolMaker" datatype="html">
@@ -617,7 +669,7 @@
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">517</context>
+          <context context-type="linenumber">643</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenProtocolCompound" datatype="html">
@@ -627,42 +679,42 @@
               </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">539</context>
+          <context context-type="linenumber">665</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeCreateAccountTitle" datatype="html">
         <source>Create an account</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">574</context>
+          <context context-type="linenumber">700</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeCreateAccountSubTitle" datatype="html">
         <source>Use any supported wallet.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">575</context>
+          <context context-type="linenumber">701</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeConnectCapitalText" datatype="html">
         <source>Let proven managers handle your crypto portfolio.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">586</context>
+          <context context-type="linenumber">712</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeGetPaidTitle" datatype="html">
         <source>...Or get paid to trade</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">596</context>
+          <context context-type="linenumber">722</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeGetPaidText" datatype="html">
         <source>Earn commissions for making good investments.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">597</context>
+          <context context-type="linenumber">723</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeFundingTitle" datatype="html">
@@ -671,11 +723,11 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">613</context>
+          <context context-type="linenumber">739</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">618</context>
+          <context context-type="linenumber">744</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeFundingText1" datatype="html">
@@ -687,14 +739,14 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">623</context>
+          <context context-type="linenumber">749</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeFundingText2" datatype="html">
         <source>Support the movement by making a donation.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">629</context>
+          <context context-type="linenumber">755</context>
         </context-group>
       </trans-unit>
       <trans-unit id="ctaDonate" datatype="html">
@@ -702,7 +754,7 @@
           Betoken</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">635</context>
+          <context context-type="linenumber">761</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/funding/funding.component.html</context>
@@ -714,7 +766,7 @@
           Betoken</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">637</context>
+          <context context-type="linenumber">763</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenMovementTitle" datatype="html">
@@ -723,11 +775,11 @@
         </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">647</context>
+          <context context-type="linenumber">773</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">660</context>
+          <context context-type="linenumber">786</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenMovementText1" datatype="html">
@@ -736,55 +788,55 @@
           Here are just a few of the faces from our</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">653</context>
+          <context context-type="linenumber">779</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">666</context>
+          <context context-type="linenumber">792</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenMovementText2" datatype="html">
         <source>English</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">655</context>
+          <context context-type="linenumber">781</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">668</context>
+          <context context-type="linenumber">794</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenMovementText3" datatype="html">
         <source>and</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">655</context>
+          <context context-type="linenumber">781</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">668</context>
+          <context context-type="linenumber">794</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenMovementText4" datatype="html">
         <source>Japanese</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">656</context>
+          <context context-type="linenumber">782</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">669</context>
+          <context context-type="linenumber">795</context>
         </context-group>
       </trans-unit>
       <trans-unit id="homeOpenMovementText5" datatype="html">
         <source>chatroom</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">656</context>
+          <context context-type="linenumber">782</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/main/main.component.html</context>
-          <context context-type="linenumber">669</context>
+          <context context-type="linenumber">795</context>
         </context-group>
       </trans-unit>
       <trans-unit id="headerOverviewPreTitle" datatype="html">
@@ -1688,7 +1740,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
-          <context context-type="linenumber">39</context>
+          <context context-type="linenumber">40</context>
         </context-group>
       </trans-unit>
       <trans-unit id="navFriends" datatype="html">
@@ -1761,7 +1813,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
-          <context context-type="linenumber">29</context>
+          <context context-type="linenumber">30</context>
         </context-group>
       </trans-unit>
       <trans-unit id="navHome" datatype="html">
@@ -1865,21 +1917,21 @@
         <source>Join our community</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
-          <context context-type="linenumber">12</context>
+          <context context-type="linenumber">13</context>
         </context-group>
       </trans-unit>
       <trans-unit id="subscribeNewsletterTitle" datatype="html">
         <source>Subscribe to the Betoken Report</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
-          <context context-type="linenumber">23</context>
+          <context context-type="linenumber">24</context>
         </context-group>
       </trans-unit>
       <trans-unit id="footerDisclaimerTitle" datatype="html">
         <source>Disclaimer</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
-          <context context-type="linenumber">47</context>
+          <context context-type="linenumber">48</context>
         </context-group>
       </trans-unit>
       <trans-unit id="footerDisclaimerText1" datatype="html">
@@ -1889,7 +1941,7 @@
             </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
-          <context context-type="linenumber">48</context>
+          <context context-type="linenumber">49</context>
         </context-group>
       </trans-unit>
       <trans-unit id="footerDisclaimerText2" datatype="html">
@@ -1901,7 +1953,7 @@
             </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
-          <context context-type="linenumber">52</context>
+          <context context-type="linenumber">53</context>
         </context-group>
       </trans-unit>
       <trans-unit id="footerDisclaimerText3" datatype="html">
@@ -1910,7 +1962,7 @@
             </source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/footer/footer.component.html</context>
-          <context context-type="linenumber">58</context>
+          <context context-type="linenumber">59</context>
         </context-group>
       </trans-unit>
     </body>
