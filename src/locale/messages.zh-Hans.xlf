@@ -1,809 +1,1021 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="ng2.template" datatype="plaintext" xml:space="preserve" source-language="en" target-language="zh-Hans">
-    <header>
-      <tool tool-id="poeditor.com" tool-name="POEditor"/>
-    </header>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="zh-Hans" datatype="plaintext" original="ng2.template">
     <body>
-      <trans-unit id="headerStartTitle">
+      <trans-unit id="headerStartTitle" datatype="html">
         <source>Get Started with Betoken</source>
         <target>开始使用 Betoken</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerStartText">
+      <trans-unit id="headerStartText" datatype="html">
         <source>Choose an option below to begin</source>
         <target>请选择以下选项中的一个</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="connectCapitalTitle">
+      <trans-unit id="connectCapitalTitle" datatype="html">
         <source>Deposit &amp; Withdraw</source>
         <target>投入资产</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="startConnectCapitalText">
-        <source>Connect your capital with Betoken's fund managers.</source>
+      <trans-unit id="startConnectCapitalText" datatype="html">
+        <source>Connect your capital with Betoken&apos;s fund managers.</source>
         <target>让 Betoken 的基金管理人社区管理您的资产。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="ctaManaging">
+      <trans-unit id="ctaManaging" datatype="html">
         <source>Start managing</source>
         <target>管理基金</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="startManagingText">
+      <trans-unit id="startManagingText" datatype="html">
         <source>Be financially rewarded based on your talent and contributions as a fund manager.</source>
         <target>作为一个基金管理人，通过展现您管理投资的才华来获取金钱奖励。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="SartAuditedBySolidified">
+      <trans-unit id="SartAuditedBySolidified" datatype="html">
         <source>Betoken Smart Contracts are audited and secured by Solidified</source>
         <target>Betoken 的智能合约安全性由 Solidified 验证</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerHomePretitle">
+      <trans-unit id="headerHomePretitle" datatype="html">
         <source>Meet Betoken</source>
         <target>见见 Betoken</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerHomeTitle">
+      <trans-unit id="headerHomeTitle" datatype="html">
         <source>Crowd-powered asset management protocol</source>
         <target>利用群众力量的资产管理平台</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerHomeTitleMobile">
+      <trans-unit id="headerHomeTitleMobile" datatype="html">
         <source>Crowd-powered asset management protocol</source>
         <target>利用群众力量的资产管理平台</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="ctaGetStarted">
+      <trans-unit id="ctaGetStarted" datatype="html">
         <source>Get started</source>
         <target>开始使用</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerHomePretitleSignIn">
+      <trans-unit id="headerHomePretitleSignIn" datatype="html">
         <source>Already using Betoken?</source>
         <target>已经在用 Betoken？</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="signIn">
+      <trans-unit id="signIn" datatype="html">
         <source>Sign in</source>
         <target>登录</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeStatsAUM">
+      <trans-unit id="homeStatsAUM" datatype="html">
         <source>Assets Under Management</source>
         <target>受管理资产</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeStatsLoading">
+      <trans-unit id="homeStatsLoading" datatype="html">
         <source>Loading...</source>
         <target>加载中...</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeStatsRoi1m">
+      <trans-unit id="homeStatsRoi1m" datatype="html">
         <source>ROI (1 Month)</source>
         <target>收益（本月）</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeStatsRoiSinceInception">
-        <source>ROI (Since inception)</source>
-        <target>收益（自诞生）</target>
-      </trans-unit>
-      <trans-unit id="homeStatsNbManagers">
+      <trans-unit id="homeStatsNbManagers" datatype="html">
         <source>Number of Managers</source>
         <target>管理人人数</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="home2brainsTitle">
+      <trans-unit id="home2brainsTitle" datatype="html">
         <source>You think 2 brains are better than one...</source>
         <target>三个臭皮匠，赛过诸葛亮...</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="home2brainsSubTitle">
+      <trans-unit id="home2brainsSubTitle" datatype="html">
         <source>How about hundreds of talented asset managers working for you? Worldwide!</source>
         <target>那上百个来自世界各地的资产管理人合力为您服务听起来如何？</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="home2brainsText1">
+      <trans-unit id="home2brainsText1" datatype="html">
         <source>Many people have the capital to invest in cryptocurrency but not the expertise, and many others have the expertise but not the capital.</source>
         <target>许多人想投资区块链资产但没有相应技能，其他人有技能却没有钱投资。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="home2brainsText2">
+      <trans-unit id="home2brainsText2" datatype="html">
         <source>Betoken is an open-source, community-owned, permissionless, and censorship-resistant protocol for connecting capital with talent, and talent with capital.</source>
         <target>Betoken是一个开源的，社区拥有的，无权限和审查制度的平台，用于将资本与人才连接起来。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenFundTitle">
+      <trans-unit id="homeOpenFundTitle" datatype="html">
         <source>An open crypto fund managed by code and meritocracy</source>
         <target>任人唯贤的区块链资产基金</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenFundText">
+      <trans-unit id="homeOpenFundText" datatype="html">
         <source>Your money is managed by the best people</source>
         <target>您的资产受最优秀的人管理</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeSitTitle">
+      <trans-unit id="homeSitTitle" datatype="html">
         <source>Sit back and relax</source>
         <target>高枕无忧</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeSitText1">
+      <trans-unit id="homeSitText1" datatype="html">
         <source>Your capital is automatically distributed among Betoken’s</source>
         <target>您的资产会自动被分配给 Betoken 的</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeSitText2">
+      <trans-unit id="homeSitText2" datatype="html">
         <source>community of managers</source>
         <target>管理人社区</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeSitText3">
+      <trans-unit id="homeSitText3" datatype="html">
         <source>The best of them will have the most influence over how that capital is put to work.</source>
         <target>最优秀的管理人将对如何管理您的资产有最大发言权。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="illustrationSit">
+      <trans-unit id="illustrationSit" datatype="html">
         <source>sit</source>
         <target>坐</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeSaveTitle">
+      <trans-unit id="homeSaveTitle" datatype="html">
         <source>Save time &amp; effort</source>
         <target>省时省力</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeSaveText">
+      <trans-unit id="homeSaveText" datatype="html">
         <source>Unlike platforms such as Melonport and eToro, you don’t need to waste time on choosing the best performers and carefully hedging capital amongst them. All Betoken managers actively trade against the market while you sleep.</source>
         <target>Betoken 不像其他如 Melonport 和 eToro 的投资平台，您不需要浪费时间在挑选最优秀的管理人并小心翼翼地把资产分配给他们上。Betoken 所有的管理人齐心协力在您休养生息时投资您的资产。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeCtaConnectCapital">
+      <trans-unit id="homeCtaConnectCapital" datatype="html">
         <source>Deposit your capital</source>
         <target>存入您的资产</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeBestManagerTitle">
+      <trans-unit id="homeBestManagerTitle" datatype="html">
         <source>The best managers earn the most</source>
         <target>最优秀的管理人挣钱最多</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeBestManagerText1">
+      <trans-unit id="homeBestManagerText1" datatype="html">
         <source>The Betoken protocol recognizes and quantifies the talent of its crypto-traders by allocating units of reputation to them, denominated in</source>
         <target>Betoken 通过按收益给管理人们分配声望点数来量化他们的管理技能。这种声望点数叫做</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeBestManagerText2">
+      <trans-unit id="homeBestManagerText2" datatype="html">
         <source>Kairo tokens</source>
         <target>Kairo 点数</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeBestManagerText3">
+      <trans-unit id="homeBestManagerText3" datatype="html">
         <source>, and financially rewards them based on their talent and contributions.</source>
         <target>。Betoken 据此用金钱奖励管理人。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentTitle">
+      <trans-unit id="homeHowBetokenDifferentTitle" datatype="html">
         <source>How is Betoken different?</source>
         <target>Betoken 怎样不同？</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentSubtitle1">
+      <trans-unit id="homeHowBetokenDifferentSubtitle1" datatype="html">
         <source>User-owned, User-governed</source>
         <target>用户所有，用户治理</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentSubtitle2">
+      <trans-unit id="homeHowBetokenDifferentSubtitle2" datatype="html">
         <source>Active Management</source>
         <target>积极管理</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentSubtitle3">
+      <trans-unit id="homeHowBetokenDifferentSubtitle3" datatype="html">
         <source>Full Collateralization</source>
         <target>完全抵押</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentSubtitle4">
+      <trans-unit id="homeHowBetokenDifferentSubtitle4" datatype="html">
         <source>70+ Assets</source>
         <target>七十多种资产</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentSubtitle5">
+      <trans-unit id="homeHowBetokenDifferentSubtitle5" datatype="html">
         <source>No limits, no hidden fees</source>
         <target>没有限制，没有隐藏费用</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentText1a">
-        <source>Betoken's</source>
+      <trans-unit id="homeHowBetokenDifferentText1a" datatype="html">
+        <source>Betoken&apos;s</source>
         <target>Betoken 的</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentText1b">
+      <trans-unit id="homeHowBetokenDifferentText1b" datatype="html">
         <source>governance system</source>
         <target>参政系统</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentText1c">
-        <source>oversees protocol changes and upgrades, and provides funding for the development of new features. No single company or individual can control the protocol. It's owned and governed by the very people who use it and benefit from it—You.</source>
+      <trans-unit id="homeHowBetokenDifferentText1c" datatype="html">
+        <source>oversees protocol changes and upgrades, and provides funding for the development of new features. No single company or individual can control the protocol. It&apos;s owned and governed by the very people who use it and benefit from it—You.</source>
         <target>管理协议更新和升级，并且提供开发新功能的所需资金。没有任何一个公司或个人能控制 Betoken。Betoken 由使用它并从中受益的人所拥有和管理 - 您。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentText2">
+      <trans-unit id="homeHowBetokenDifferentText2" datatype="html">
         <source>Hundreds of Betoken managers actively prevent losses and seize profitable opportunities for your sake. Your money is converted into an actively managed portfolio of assets that can immediately respond to even the slightest changes in the market.</source>
         <target>Betoken 上百个管理人积极地为您避免损失并抓住赚钱的机会。您的资产将被转换为被积极管理的基金股份，它将在市场中有任何的波动时作出反应。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentText3">
+      <trans-unit id="homeHowBetokenDifferentText3" datatype="html">
         <source>When you deposit your capital on Betoken, it is converted in Betoken Share tokens. It represents your ownership in the Betoken fund and is fully backed by a collateral in the smart contract. Each of them acts like a tokenized portfolio, containing the underlying tokens that Betoken managers buy and sell.</source>
         <target>当您把资产存入 Betoken 基金时，它将被转换为 Betoken 基金股份。股份代表您对基金资产的所有权。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentText4">
+      <trans-unit id="homeHowBetokenDifferentText4" datatype="html">
         <source>By depositing your capital to Betoken protocol, you get direct exposure to ETH, WBTC, BAT, MKR and 70+ ERC20 tokens.</source>
         <target>通过将资产存入 Betoken 基金，您能让资产直接接触以太坊，WBTC，BAT，MKR，和其他七十多种 ERC20 代币的价格起伏。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeHowBetokenDifferentText5">
+      <trans-unit id="homeHowBetokenDifferentText5" datatype="html">
         <source>No minimums. No deposit fees. Only $1, $2, or $3 to start automating your crypto portfolio.</source>
         <target>没有最低投资额。 没有存入费。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeCtaFees">
+      <trans-unit id="homeCtaFees" datatype="html">
         <source>More about fees, lockup, and liquidity</source>
         <target>更多关于费用，锁定和流动性的信息</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeSafeTitle">
+      <trans-unit id="homeSafeTitle" datatype="html">
         <source>You are in safe hands</source>
         <target>您在安全的手中</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeSafeText">
+      <trans-unit id="homeSafeText" datatype="html">
         <source>Remain always in control of your funds. Built and audited by the best.</source>
         <target>保有对您资金的控制。由最优秀的人开发与验证。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeNonCustodialTitle">
+      <trans-unit id="homeNonCustodialTitle" datatype="html">
         <source>Non-custodial</source>
         <target>非保管式</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeNonCustodialText">
+      <trans-unit id="homeNonCustodialText" datatype="html">
         <source>Betoken is non-custodial. You always stay in control, it’s written on the blockchain. All user funds are locked in smart contracts without Betoken developers having any direct or indirect access to those funds.</source>
         <target>Betoken 是个非保管式的金融应用。您永远保留对您资产的控制。所有用户资产都锁在 Betoken 的智能合约内，Betoken 的开发团队以及管理人们无法直接接触您的资产。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeAuditTitle">
+      <trans-unit id="homeAuditTitle" datatype="html">
         <source>Tested and audited smart contracts</source>
         <target>倍经测试和检验的智能合约</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeAuditText1">
-        <source>Betoken's smart contracts are audited and secured by</source>
+      <trans-unit id="homeAuditText1" datatype="html">
+        <source>Betoken&apos;s smart contracts are audited and secured by</source>
         <target>Betoken 的智能合约的安全性检验于</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeAuditText2">
+      <trans-unit id="homeAuditText2" datatype="html">
         <source>and are designed so that no one can steal the collateral that backs the value of your deposit.</source>
         <target>并且其设计使得任何人都无法窃取您的资产。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenProtocolTitle">
+      <trans-unit id="homeOpenProtocolTitle" datatype="html">
         <source>Powered by open protocols</source>
         <target>由开放协议提供支持</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenProtocolText">
+      <trans-unit id="homeOpenProtocolText" datatype="html">
         <source>Betoken protocol uses the full value of the open finance ecosystem</source>
         <target>Betoken 深度整合开放式金融系统</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenProtocolKyber">
+      <trans-unit id="homeOpenProtocolKyber" datatype="html">
         <source>An on-chain liquidity protocol that aggregates liquidity from a wide range of reserves, allowing betoken managers to trade instantly.</source>
         <target>一个在区块链上的金融交易协议，让 Betoken 的管理人们得以即时交易。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenProtocolBzx">
+      <trans-unit id="homeOpenProtocolBzx" datatype="html">
         <source>A financial primitive enabling margin trading with up to 4x leverage on Betoken.</source>
         <target>一种让 Betoken 进行高达4倍杠杆的衍生品交易。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenProtocolMaker">
+      <trans-unit id="homeOpenProtocolMaker" datatype="html">
         <source>A decentralized autonomous organization (DAO) comprised of a decentralized stablecoin (Dai), collateral loans, and community governance. Betoken use Dai to handle its bookkeeping, and distribute profits and commissions to its users.</source>
         <target>一个去中心化的自治组织（DAO），由稳定价值代币（Dai），抵押贷款和社区治理组成。 Betoken 使用 Dai 来储存资产，以及将利润和佣金分配给其用户。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenProtocolCompound">
+      <trans-unit id="homeOpenProtocolCompound" datatype="html">
         <source>A decentralized protocol which establishes money markets with algorithmically set interest rates based on supply and demand, allowing Betoken managers to perform margin trading with 1.5x leverage or better.</source>
         <target>一种去中心化的协议，通过基于供需的算法设定利率建立货币市场。该协议允许 Betoken 管理人以高达 1.5 倍杠杆进行衍生品交易。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeCreateAccountTitle">
+      <trans-unit id="homeCreateAccountTitle" datatype="html">
         <source>Create an account</source>
         <target>注册账户</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeCreateAccountSubTitle">
+      <trans-unit id="homeCreateAccountSubTitle" datatype="html">
         <source>Use any supported wallet.</source>
         <target>用任意兼容的钱包。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeConnectCapitalText">
+      <trans-unit id="homeConnectCapitalText" datatype="html">
         <source>Let proven managers handle your crypto portfolio.</source>
         <target>让久经磨炼的管理人们管理您的投资。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeGetPaidTitle">
+      <trans-unit id="homeGetPaidTitle" datatype="html">
         <source>...Or get paid to trade</source>
         <target>...或者靠管理投资赚佣金</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeGetPaidText">
+      <trans-unit id="homeGetPaidText" datatype="html">
         <source>Earn commissions for making good investments.</source>
         <target>通过好好投资来赚佣金。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeFundingTitle">
+      <trans-unit id="homeFundingTitle" datatype="html">
         <source>Funding</source>
         <target>社区融资</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeFundingText1">
+      <trans-unit id="homeFundingText1" datatype="html">
         <source>Betoken is launched fairly — free of ICO or pre-minted tokens. We rely on donations. If you’re an individual, company or institution excited about the potential of Betoken, we humbly ask if you’d consider making a financial contribution to the project’s development. We’re experimenting with a 100% community-driven funding model.</source>
         <target>Betoken 的发布是公平的---不存在 ICO 或者提前印制的代币。我们依靠捐款来运行。如果您或您代表的组织对 Betoken 的发展潜力感到兴奋，我们诚恳地请求您考虑一下捐助 Betoken 的开发工程。我们正在尝试100％社区驱动的融资模式。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeFundingText2">
+      <trans-unit id="homeFundingText2" datatype="html">
         <source>Support the movement by making a donation.</source>
         <target>捐款来支持我们。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="ctaDonate">
+      <trans-unit id="ctaDonate" datatype="html">
         <source>Donate to Betoken</source>
         <target>给 Betoken 捐款</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="ctaFriendsOfBetoken">
+      <trans-unit id="ctaFriendsOfBetoken" datatype="html">
         <source>Friends of Betoken</source>
         <target>Betoken 的支持者们</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenMovementTitle">
+      <trans-unit id="homeOpenMovementTitle" datatype="html">
         <source>Join The Open Movement</source>
         <target>加入开放金融运动</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenMovementText1">
+      <trans-unit id="homeOpenMovementText1" datatype="html">
         <source>Betoken is an open project that believes in open source code and creative contribution from people with diverse interests and skill-sets. Dozens of people have contributed ideas, code, designs, and time to Betoken. Here are just a few of the faces from our</source>
         <target>Betoken 是一个开放式项目，我们相信开放源代码和依靠具有不同兴趣和技能的人们的创造性贡献。 数十人为Betoken贡献了想法，代码，设计和时间。 以下是我们的一些</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenMovementText2">
+      <trans-unit id="homeOpenMovementText2" datatype="html">
         <source>English</source>
         <target>英语</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenMovementText3">
+      <trans-unit id="homeOpenMovementText3" datatype="html">
         <source>and</source>
         <target>和</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenMovementText4">
+      <trans-unit id="homeOpenMovementText4" datatype="html">
         <source>Japanese</source>
         <target>日语</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="homeOpenMovementText5">
+      <trans-unit id="homeOpenMovementText5" datatype="html">
         <source>chatroom</source>
         <target>社区成员</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerOverviewPreTitle">
+      <trans-unit id="headerOverviewPreTitle" datatype="html">
         <source>Overview</source>
         <target>概览</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFriendsTitle">
+      <trans-unit id="headerFriendsTitle" datatype="html">
         <source>Friends of Betoken</source>
         <target>Betoken 的支持者们</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFriendsText1">
+      <trans-unit id="headerFriendsText1" datatype="html">
         <source>The following companies, institutions, or individuals have generously donated financial resources to the Betoken project under our</source>
         <target>以下公司，机构，或个人慷慨地向 Betoken 项目捐了款，通过我们的</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFriendsText2">
+      <trans-unit id="headerFriendsText2" datatype="html">
         <source>community funding model</source>
         <target>社区资助系统</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFriendsText3">
-        <source>We're grateful for their support, and are proud to display their logos or names as supporters of Betoken.</source>
+      <trans-unit id="headerFriendsText3" datatype="html">
+        <source>We&apos;re grateful for their support, and are proud to display their logos or names as supporters of Betoken.</source>
         <target>我们感谢他们的支持，并且荣幸地把他们的 logo 或名字列为 Betoken 支持者。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsHallOfFameTitle">
+      <trans-unit id="friendsHallOfFameTitle" datatype="html">
         <source>Hall of Fame</source>
         <target>名人堂</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="ctaAskToBeListed">
+      <trans-unit id="ctaAskToBeListed" datatype="html">
         <source>Ask to be listed</source>
         <target>申请上名单</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsHallOfFameCtaDonate">
+      <trans-unit id="friendsHallOfFameCtaDonate" datatype="html">
         <source>Donate to take this spot!</source>
         <target>捐款来名列此处</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsCtaBtnDonate">
+      <trans-unit id="friendsCtaBtnDonate" datatype="html">
         <source>Donate</source>
         <target>捐款</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsIndividualsTitle">
+      <trans-unit id="friendsIndividualsTitle" datatype="html">
         <source>Individuals</source>
         <target>个人</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="BetokenEvangelist">
+      <trans-unit id="BetokenEvangelist" datatype="html">
         <source>Betoken Evangelist</source>
         <target>Betoken 传播者</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsIndividualTotalDonation">
+      <trans-unit id="friendsIndividualTotalDonation" datatype="html">
         <source>total</source>
         <target>总计</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsIndividualNbofDonations">
+      <trans-unit id="friendsIndividualNbofDonations" datatype="html">
         <source># donations</source>
         <target>捐款数</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="BetokenAnonymousDonor">
+      <trans-unit id="BetokenAnonymousDonor" datatype="html">
         <source>🦄 Anonymous</source>
         <target>🦄 匿名</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsIndividualsCtaYourNameHere">
+      <trans-unit id="friendsIndividualsCtaYourNameHere" datatype="html">
         <source>Your name here</source>
         <target>您的名字？</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsCompaniesTitle">
+      <trans-unit id="friendsCompaniesTitle" datatype="html">
         <source>Companies</source>
         <target>公司</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsCompaniesCtaYourLogoHere">
+      <trans-unit id="friendsCompaniesCtaYourLogoHere" datatype="html">
         <source>Your logo here</source>
         <target>您的logo？</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsAnonymousTitle">
+      <trans-unit id="friendsAnonymousTitle" datatype="html">
         <source>Anonymous Supporters</source>
         <target>匿名支持者</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsAnonymousText">
-        <source>We'd also like to explicitly thank everyone who's donated but chosen to remain anonymous.</source>
+      <trans-unit id="friendsAnonymousText" datatype="html">
+        <source>We&apos;d also like to explicitly thank everyone who&apos;s donated but chosen to remain anonymous.</source>
         <target>我们想感谢所有捐了款但选择保持匿名的支持者们。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsSeeSthWrongTitle">
+      <trans-unit id="friendsSeeSthWrongTitle" datatype="html">
         <source>See something wrong?</source>
         <target>发现了错误？</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsSeeSthWrongText">
-        <source>This page is a work in progress. We are doing our best to keep information up to date, but there's a good chance bugs will slip in. For any corrections, please contact an admin on our</source>
+      <trans-unit id="friendsSeeSthWrongText" datatype="html">
+        <source>This page is a work in progress. We are doing our best to keep information up to date, but there&apos;s a good chance bugs will slip in. For any corrections, please contact an admin on our</source>
         <target>该页面在建设中。我们正在尽最大努力保持信息的最新状态，但很可能会出现错误。如有任何更正，请联系我们的管理员，通过我们的</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="friendsSeeSthWrongTextTelegramChannel">
+      <trans-unit id="friendsSeeSthWrongTextTelegramChannel" datatype="html">
         <source>Telegram channel</source>
         <target>Telegram 社区</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFundingTitle">
+      <trans-unit id="headerFundingTitle" datatype="html">
         <source>Community Funding</source>
         <target>社区融资</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFundingTitleMobile">
+      <trans-unit id="headerFundingTitleMobile" datatype="html">
         <source>Community Funding</source>
         <target>社区融资</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFundingText1">
+      <trans-unit id="headerFundingText1" datatype="html">
         <source>This is a</source>
         <target>这是一个</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFundingText2">
+      <trans-unit id="headerFundingText2" datatype="html">
         <source>general fund</source>
         <target>普通基金</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFundingText3">
-        <source>for the Betoken's ongoing development campaign. Donations into this fund are always welcome, very appreciated, and a quick and easy way to get yourself or your company on to the</source>
+      <trans-unit id="headerFundingText3" datatype="html">
+        <source>for the Betoken&apos;s ongoing development campaign. Donations into this fund are always welcome, very appreciated, and a quick and easy way to get yourself or your company on to the</source>
         <target>用于资助 Betoken 的开发。我们欢迎对该基金的捐款，并且捐款可以让您或您的公司登上</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFundingText4">
+      <trans-unit id="headerFundingText4" datatype="html">
         <source>friends of Betoken</source>
         <target> Betoken 支持者</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerFundingText5">
+      <trans-unit id="headerFundingText5" datatype="html">
         <source>page.</source>
         <target>页面。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPoweredByKyber">
+      <trans-unit id="fundingPoweredByKyber" datatype="html">
         <source>Powered by Kyber Network</source>
         <target>由 Kyber Network 支持</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardTitle">
+      <trans-unit id="fundingChooseYourRewardTitle" datatype="html">
         <source>Choose your reward</source>
         <target>选择您的奖励</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardSubtitle1">
+      <trans-unit id="fundingChooseYourRewardSubtitle1" datatype="html">
         <source>Pledge $10 or more</source>
         <target>捐 10 美元或以上</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardFriendsPageYourName">
+      <trans-unit id="fundingChooseYourRewardFriendsPageYourName" datatype="html">
         <source>Your name in the</source>
         <target>您的名字名列</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardFriendsOfBetokenLink">
+      <trans-unit id="fundingChooseYourRewardFriendsOfBetokenLink" datatype="html">
         <source>friends of Betoken</source>
         <target>Betoken 支持者</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardFriendsPageIfDesired">
+      <trans-unit id="fundingChooseYourRewardFriendsPageIfDesired" datatype="html">
         <source>page (if desired).</source>
         <target>页面（若希望）</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardSubtitle3">
+      <trans-unit id="fundingChooseYourRewardSubtitle3" datatype="html">
         <source>Pledge $100 or more</source>
         <target>捐 100 美元或以上</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardThankYouTokenText1">
-        <source>Receive a special "Thank you" token that unlocks a special badge on the</source>
+      <trans-unit id="fundingChooseYourRewardThankYouTokenText1" datatype="html">
+        <source>Receive a special &quot;Thank you&quot; token that unlocks a special badge on the</source>
         <target>获得特别的感谢勋章于</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardRankingManagersLink">
+      <trans-unit id="fundingChooseYourRewardRankingManagersLink" datatype="html">
         <source>Ranking Managers</source>
         <target>管理人排行</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardThankYouTokenText-3">
-        <source>page. If you are or plan to be a Betoken fund manager, everyone will be able to see that you're a Betoken Champion in the managers ranking page.</source>
+      <trans-unit id="fundingChooseYourRewardThankYouTokenText-3" datatype="html">
+        <source>page. If you are or plan to be a Betoken fund manager, everyone will be able to see that you&apos;re a Betoken Champion in the managers ranking page.</source>
         <target>页面。如果您是或希望成为一名 Betoken 基金的管理人，所有人都能在管理人排行上看到您是一位 Betoken 英雄。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardEarlyAccess">
+      <trans-unit id="fundingChooseYourRewardEarlyAccess" datatype="html">
         <source>Early access to new features.</source>
         <target>提前尝试新功能。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="BetokenChampion">
+      <trans-unit id="BetokenChampion" datatype="html">
         <source>Betoken Champion</source>
         <target>Betoken 英雄</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardSubtitle5">
+      <trans-unit id="fundingChooseYourRewardSubtitle5" datatype="html">
         <source>Pledge $500 or more</source>
         <target>捐 500 美元或以上</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="funding500ChooseYourRewardFriendsPageText1">
+      <trans-unit id="funding500ChooseYourRewardFriendsPageText1" datatype="html">
         <source>Your name and logo in the Companies or Individuals of the</source>
         <target>您的名字和 logo 列于</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardTwtMention">
+      <trans-unit id="fundingChooseYourRewardTwtMention" datatype="html">
         <source>Personal mention on Twitter and on social media by the Betoken team (if desired).</source>
         <target>Betoken 团队在推特和社交媒体上提及您（如果需要）。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardSubtitle6">
+      <trans-unit id="fundingChooseYourRewardSubtitle6" datatype="html">
         <source>Top 10 supporters • Hall of Fame</source>
         <target>前十名支持者 • 名人堂</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardSubtitle7">
+      <trans-unit id="fundingChooseYourRewardSubtitle7" datatype="html">
         <source>Pledge $1,000 or more</source>
         <target>捐 1000 美元或以上</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingChooseYourRewardFriendsPageText1">
+      <trans-unit id="fundingChooseYourRewardFriendsPageText1" datatype="html">
         <source>Your name in the Hall of Fame section of the</source>
         <target>将您的名字列在名人堂</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingWhatThisFundIsTitle">
+      <trans-unit id="fundingWhatThisFundIsTitle" datatype="html">
         <source>What this fund is</source>
         <target>这个基金是什么</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingWhatThisFundIsText1">
+      <trans-unit id="fundingWhatThisFundIsText1" datatype="html">
         <source>This is the general development fund intended to cover costs related to Betoken’s development. While the team may not have visibility on every particular need that will arise, all donated funds will be used towards Betoken’s technical development and new security audits.</source>
         <target>这是一个普通基金，旨在支付与 Betoken 开发相关的费用。 虽然团队可能无法了解将出现的每个特定需求，但所有捐赠的资金将用于 Betoken 的技术开发和新的安全性验证。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingWhatThisFundIsText2">
+      <trans-unit id="fundingWhatThisFundIsText2" datatype="html">
         <source>This fund is managed entirely by the Betoken Technical Council, and all spending decisions will be made public. The funds are kept in a Multisig wallet, meaning no spending can occur without at least 2 council members actively signing the transaction.</source>
         <target>该基金完全由Betoken技术委员会管理，所有支出决策都将公之于众。 这些资金存放在Multisig钱包中，这意味着如果没有至少2名理事会成员批准，就不会发生任何支出。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingWhatThisFundIsText3">
-        <source>While the main goal is funding the ongoing professional security audit, you'll find below some other examples of where proceeds of this fund might be allocated (by no means exhaustive and subject to change):</source>
+      <trans-unit id="fundingWhatThisFundIsText3" datatype="html">
+        <source>While the main goal is funding the ongoing professional security audit, you&apos;ll find below some other examples of where proceeds of this fund might be allocated (by no means exhaustive and subject to change):</source>
         <target>虽然主要目标是为正在进行的安全性验证提供资金，但您可以在下面找到其他一些需要资金的地方（绝不是详尽无遗且可能有所变化）：</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingWhatThisFundIsText4">
+      <trans-unit id="fundingWhatThisFundIsText4" datatype="html">
         <source>Service fees related to build and deployment infrastructure</source>
         <target>与构建和部署基础架构相关的服务费</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingWhatThisFundIsText5">
+      <trans-unit id="fundingWhatThisFundIsText5" datatype="html">
         <source>Contributing to a second security audit or other specific development work if required</source>
         <target>如有需要，资助第二个安全性检查或其他开发项目</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingWhatThisFundIsText6">
+      <trans-unit id="fundingWhatThisFundIsText6" datatype="html">
         <source>Legal support as and when needed</source>
         <target>在需要时提供法律支持</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesTitle">
+      <trans-unit id="fundingPrinciplesTitle" datatype="html">
         <source>Betoken’s Community Funding Principles</source>
         <target>Betoken 的社区基金原则</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesTitleMobile">
+      <trans-unit id="fundingPrinciplesTitleMobile" datatype="html">
         <source>Betoken’s Community Funding Principles</source>
         <target>Betoken 的社区基金原则</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText1">
+      <trans-unit id="fundingPrinciplesText1" datatype="html">
         <source>is currently being created by a group of developers dedicated to the realisation of a reliable and functional crowd-powered assets management protocol. We are building it because we’re excited about cryptoeconomics, governance system and the possibilities that they offer.</source>
         <target>目前由一组致力于实现可靠且功能强大的群众资产管理平台的开发人员创造。 我们正在建设它的理由，是因为我们对加密经济学，参政系统及其提供的可能性感到兴奋。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText2">
-        <source>Unlike the vast majority of blockchain projects, Betoken's development is not motivated by greed for either its developers or early adopters. As a measure of this, the project has pledged that:</source>
+      <trans-unit id="fundingPrinciplesText2" datatype="html">
+        <source>Unlike the vast majority of blockchain projects, Betoken&apos;s development is not motivated by greed for either its developers or early adopters. As a measure of this, the project has pledged that:</source>
         <target>与绝大多数区块链项目不同，Betoken 的开发并不以开发者或早期用户的贪婪为动力。 作为衡量标准，该项目承诺：</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText3">
+      <trans-unit id="fundingPrinciplesText3" datatype="html">
         <source>Betoken will not engage in an ICO.</source>
         <target>Betoken 不会进行 ICO。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText4">
-        <source>Betoken's launch will be pre-announced, open, and fair. There will be no pre-minted coins or any other funny business. The only avantage of the early users are for those who participate as beta tester of our Rinkeby Testnet app. They'll be able to redeem their testnet Kairo tokens on Mainnet.</source>
+      <trans-unit id="fundingPrinciplesText4" datatype="html">
+        <source>Betoken&apos;s launch will be pre-announced, open, and fair. There will be no pre-minted coins or any other funny business. The only avantage of the early users are for those who participate as beta tester of our Rinkeby Testnet app. They&apos;ll be able to redeem their testnet Kairo tokens on Mainnet.</source>
         <target>Betoken的发布是预先公布的，公开的，和公平的。 Betoken 将不会有预先印制的代币或任何其他暗箱操作。 早期用户的唯一优势属于那些参与了我们的 Beta 测试的用户们：他们将能够在正式版中兑换他们在测试版中积累的 Kairo 点数。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText5">
+      <trans-unit id="fundingPrinciplesText5" datatype="html">
         <source>In order to providing funding for its maintenance and future development on Mainnet, Betoken will mint Betoken Shares and send them to the current development team. The amount will be equal to 0.1% of the current Betoken Shares total supply, and it will occur at the end of every investment cycle.</source>
         <target>为了支付 Betoken 的维护以及未来开发的成本，Betoken 会每月发行出新的 Betoken 基金股份给开发团队，数额等于总发行量的 0.1%。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText5-1">
-        <source>Find out more about Betoken's fees structure</source>
+      <trans-unit id="fundingPrinciplesText5-1" datatype="html">
+        <source>Find out more about Betoken&apos;s fees structure</source>
         <target>了解更多有关 Betoken 费用架构的信息</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText6">
+      <trans-unit id="fundingPrinciplesText6" datatype="html">
         <source>Betoken developers will not seek or accept any capital that comes with the expectation of future monetary return.</source>
         <target>Betoken 开发团队不会寻求或接受任何预期未来金钱回报的资本。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText7">
+      <trans-unit id="fundingPrinciplesText7" datatype="html">
         <source>Betoken will not seek or accept any capital that comes with the expectation of being able to unduly influence Betoken’s decision-making process.</source>
         <target>Betoken 不会寻求或接受任何能够不当影响 Betoken 决策过程的资本。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText8">
+      <trans-unit id="fundingPrinciplesText8" datatype="html">
         <source>Thus far, Betoken’s development has been mostly a part-time effort, with</source>
         <target>目前，Betoken 的开发基本是项业余工程，通过</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText8-1">
+      <trans-unit id="fundingPrinciplesText8-1" datatype="html">
         <source>volunteers</source>
         <target>志愿者</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText8-2">
+      <trans-unit id="fundingPrinciplesText8-2" datatype="html">
         <source>contributing their code, design, ideas on an ad-hoc basis. This will continue in any event, but the reality is that a project of Betoken’s scope would be greatly helped by having a source of funding. This would allow Betoken to reach its potential more quickly, more reliably, with better supporting infrastructure, and with a far greater chance of success competing against (or co-existing with) well-funded blockchain projects.</source>
         <target>提供代码，设计，与点子。该情况无论如何会继续下去，但现实是像 Betoken 这样野心勃勃的项目若能得到资助会更快发展。这能让 Betoken 更快更稳地发挥他的潜能，利用更好的支持架构，并有更大可能成功地与资金更加雄厚的项目们竞争。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingPrinciplesText9">
+      <trans-unit id="fundingPrinciplesText9" datatype="html">
         <source>To keep Betoken open and free from controlling influences, the project will attempt to rely 100% on community donations for its funding needs. We ask any person, corporate entity or institution who sees potential in Betoken protocol to consider donating to the project, and we hope that the vibrant cryptocurrency community will help Betoken in achieving its goal of providing an open-source, community-owned, permissionless, and censorship-resistant that truly belongs to everyone.</source>
         <target>为了使 Betoken 保持开放并且不受外来影响控制，该项目将尝试 100％ 依靠社区捐款来满足其资金需求。 我们请求任何看到 Betoken 协议潜力的个人，公司或组织考虑捐赠给该项目。我们希望充满活力的区块链社区将帮助 Betoken 实现其潜能。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingFriendsOfBetokenTitle">
+      <trans-unit id="fundingFriendsOfBetokenTitle" datatype="html">
         <source>Friends of Betoken</source>
         <target>Betoken 支持者</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingFriendsOfBetokenText1">
+      <trans-unit id="fundingFriendsOfBetokenText1" datatype="html">
         <source>We believe that any donors, large or small, should be given recognition for their contribution. Any individual donor who wishes to be listed on our</source>
         <target>我们认为，任何大大小小的捐助者都应该得到承认。 任何个人捐赠者希望列入我们的</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingFriendsOfBetokenText1-2">
+      <trans-unit id="fundingFriendsOfBetokenText1-2" datatype="html">
         <source>Friends of Betoken</source>
         <target>Betoken 支持者</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingFriendsOfBetokenText1-3">
-        <source>page will be listed, and any corporate or institutional Donors making a significant contribution to Betoken's development will have their logo displayed (if desired).</source>
+      <trans-unit id="fundingFriendsOfBetokenText1-3" datatype="html">
+        <source>page will be listed, and any corporate or institutional Donors making a significant contribution to Betoken&apos;s development will have their logo displayed (if desired).</source>
         <target>页面将会被列入，并且任何大额捐助 Betoken 发展的公司或组织将能展示他们的 logo （若希望）。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingFriendsOfBetokenText2">
+      <trans-unit id="fundingFriendsOfBetokenText2" datatype="html">
         <source>We are also happy to accept recurring sponsorships and acknowledge your support prominently on our Friends of Betoken page. However, as per our pledges above, we cannot accept sponsorships or donations predicated on being able to unduly influence Betoken’s direction.</source>
         <target>我们也很乐意接受定期赞助，并在 Betoken 支持者页面上突出显示您的支持。 但是，根据我们上面的承诺，我们不能接受以能够不当影响 Betoken 的发展方向为前提的赞助或捐赠。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsTile">
+      <trans-unit id="fundingDonationFormatsTile" datatype="html">
         <source>Donation Format</source>
         <target>捐款架构</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText1">
+      <trans-unit id="fundingDonationFormatsText1" datatype="html">
         <source>As in all things Betoken, we want to ensure that the funding process remains as transparent as all other aspects of the project. To this end, Betoken will actively seek community funding via</source>
         <target>我们希望确保融资流程与 Betoken 的所有其他方面一样透明。 为此，Betoken 将积极寻求社区资助，通过</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText1-2">
+      <trans-unit id="fundingDonationFormatsText1-2" datatype="html">
         <source>a general fund</source>
         <target>一个普通基金</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText1-3">
+      <trans-unit id="fundingDonationFormatsText1-3" datatype="html">
         <source>, proceeds of which will be allocated by Betoken’s technical council according to project need.</source>
         <target>，捐赠款项将由 Betoken 的技术委员会根据项目需要进行分配。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText2">
-        <source>The general fund will be allocated by the Betoken developers as needs are identified, with all spending decisions posted and made public. Betoken's developers will update the community on progress.</source>
+      <trans-unit id="fundingDonationFormatsText2" datatype="html">
+        <source>The general fund will be allocated by the Betoken developers as needs are identified, with all spending decisions posted and made public. Betoken&apos;s developers will update the community on progress.</source>
         <target>Betoken 的开发团队将根据需求分配普通基金，并公布所有支出决策。 Betoken 的开发团队将向社区汇报项目的进展情况。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText3">
-        <source>Since Betoken doesn’t currently have a foundation, general donations will go into the developers' multisig wallet. This may change as Betoken’s</source>
+      <trans-unit id="fundingDonationFormatsText3" datatype="html">
+        <source>Since Betoken doesn’t currently have a foundation, general donations will go into the developers&apos; multisig wallet. This may change as Betoken’s</source>
         <target>由于 Betoken 目前没有法理机构，捐款会送至开发团队的 Multisig 钱包。这将会改变，随着 Betoken 的</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText3-1">
+      <trans-unit id="fundingDonationFormatsText3-1" datatype="html">
         <source>governance model</source>
         <target>参政系统</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText3-2">
+      <trans-unit id="fundingDonationFormatsText3-2" datatype="html">
         <source>allows the community to choose another developer team</source>
         <target>允许管理人社区选举一个新的开发团队</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText4">
+      <trans-unit id="fundingDonationFormatsText4" datatype="html">
         <source>Donors and sponsors should understand that the funds donated will always go towards the advancement of Betoken.</source>
         <target>支持者们应了解捐赠款项必将会用于 Betoken 的发展。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDonationFormatsText5">
+      <trans-unit id="fundingDonationFormatsText5" datatype="html">
         <source>Developers will provide weekly updates on progress via the main social media channels of Betoken.</source>
         <target>开发团队将通过 Betoken 的社交媒体账户每周提供有关开发进度的消息。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDisclaimerTitle">
+      <trans-unit id="fundingDisclaimerTitle" datatype="html">
         <source>Disclaimer</source>
         <target>免责声明</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingDisclaimerText1">
+      <trans-unit id="fundingDisclaimerText1" datatype="html">
         <source>The Betoken project is still very young and is still experimenting with the details of its funding model. Some or all of the details above, and even our overall approach may change as the project evolves, however we will always strive to ensure that our funding model reflects the principles of openness and fairness on which the project was founded.</source>
         <target>Betoken 项目还很年轻，目前仍在试验其融资模式的细节。 上述的部分或全部细节，甚至我们的整体方法都可能随着项目的发展而变化，但我们将始终努力确保我们的融资模式反映自项目成立以来坚持的开放性和公平性原则。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingBtcAddressTitle">
+      <trans-unit id="fundingBtcAddressTitle" datatype="html">
         <source>Bitcoin donation address</source>
         <target>比特币捐款地址</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingBtcAddressText1">
+      <trans-unit id="fundingBtcAddressText1" datatype="html">
         <source>Funds donated in Bitcoin will be converted to DAI shortly after for simplicity of accounting.</source>
         <target>捐款会被转换为 DAI。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingEthAddressTitle">
+      <trans-unit id="fundingEthAddressTitle" datatype="html">
         <source>Ethereum donation address</source>
         <target>以太坊捐款地址</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingEthAddressText1">
+      <trans-unit id="fundingEthAddressText1" datatype="html">
         <source>Funds donated in Ethereum will be converted to DAI shortly after for simplicity of accounting.</source>
         <target>捐款会被转换为 DAI。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingZecAddressTitle">
+      <trans-unit id="fundingZecAddressTitle" datatype="html">
         <source>Zcash donation address</source>
         <target>Zcash捐款地址</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingZecAddressText1">
+      <trans-unit id="fundingZecAddressText1" datatype="html">
         <source>Funds donated in Zcash will be converted to DAI shortly after for simplicity of accounting.</source>
         <target>捐款会被转换为 DAI。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="fundingCommunityFundAddress">
-        <source>Community Fund's address</source>
+      <trans-unit id="fundingCommunityFundAddress" datatype="html">
+        <source>Community Fund&apos;s address</source>
         <target>社区基金的地址</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navHelp">
+      <trans-unit id="navHelp" datatype="html">
         <source>Help</source>
         <target>帮助</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navFriends">
+      <trans-unit id="navFriends" datatype="html">
         <source>Friends</source>
         <target>支持者</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navBlog">
+      <trans-unit id="navBlog" datatype="html">
         <source>Blog</source>
         <target>博客</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="signUp">
+      <trans-unit id="signUp" datatype="html">
         <source>Sign Up</source>
         <target>注册</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="modalNewsletterPretitle">
+      <trans-unit id="modalNewsletterPretitle" datatype="html">
         <source>Betoken Report</source>
         <target>Betoken 报告</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="modalNewsletterTitle">
+      <trans-unit id="modalNewsletterTitle" datatype="html">
         <source>Get notified by email</source>
         <target>获取邮件通知</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="modalNewsletterText">
-        <source>Be the first to know about new investments cycles and Betoken's next big things 👇.</source>
+      <trans-unit id="modalNewsletterText" datatype="html">
+        <source>Be the first to know about new investments cycles and Betoken&apos;s next big things 👇.</source>
         <target>抢先了解新投资周期的消息和 Betoken 的新功能👇</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="subscribeNewsletterPlaceholder">
+      <trans-unit id="subscribeNewsletterPlaceholder" datatype="html">
         <source>myemail@address.com</source>
         <target>myemail@address.com</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navHome">
+      <trans-unit id="navHome" datatype="html">
         <source>Home</source>
         <target>主页</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navFunding">
+      <trans-unit id="navFunding" datatype="html">
         <source>Funding</source>
         <target>社区融资</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navFees">
+      <trans-unit id="navFees" datatype="html">
         <source>Fees &amp; liquidity</source>
         <target>费用及流动性</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navWhitePaper">
+      <trans-unit id="navWhitePaper" datatype="html">
         <source>White Paper</source>
         <target>白皮书</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navPretitleSignup">
+      <trans-unit id="navPretitleSignup" datatype="html">
         <source>Be part of the open finance</source>
         <target>参与开放式金融运动</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navPrivacyPolicy">
+      <trans-unit id="navPrivacyPolicy" datatype="html">
         <source>Privacy policy</source>
         <target>隐私政策</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="navSendFeedback">
+      <trans-unit id="navSendFeedback" datatype="html">
         <source>Send feedback</source>
         <target>提建议</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="alertPrivacy1">
+      <trans-unit id="alertPrivacy1" datatype="html">
         <source>By using this website, you agree to our</source>
         <target>继续使用本网站代表您同意我们的</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="alertPrivacy2">
+      <trans-unit id="alertPrivacy2" datatype="html">
         <source>privacy policy</source>
         <target>隐私政策</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="footerCodeOnGithubText">
-        <source>Don't trust our words, trust our code. The Betoken protocol is available on</source>
+      <trans-unit id="footerCodeOnGithubText" datatype="html">
+        <source>Don&apos;t trust our words, trust our code. The Betoken protocol is available on</source>
         <target>信我们的话，不如信我们的代码。Betoken 的源代码开放于</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="footerCommunityTitle">
+      <trans-unit id="footerCommunityTitle" datatype="html">
         <source>Join our community</source>
         <target>加入社区</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="subscribeNewsletterTitle">
+      <trans-unit id="subscribeNewsletterTitle" datatype="html">
         <source>Subscribe to the Betoken Report</source>
         <target>订阅 Betoken 报告</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="footerDisclaimerTitle">
+      <trans-unit id="footerDisclaimerTitle" datatype="html">
         <source>Disclaimer</source>
         <target>免责声明</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="footerDisclaimerText1">
+      <trans-unit id="footerDisclaimerText1" datatype="html">
         <source>Nothing herein constitutes an offer to sell, or the solicitation of an offer to buy, any securities or tokens.</source>
         <target>本文中的任何内容均不构成出售或购买任何证券或代币的邀约。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="footerDisclaimerText2">
+      <trans-unit id="footerDisclaimerText2" datatype="html">
         <source>Betoken enables capital connection and managing using smart contracts which are open source. Betoken does not take custody of tokens and is only a collaborative hub for investors and managers. Betoken is not a licensed bank, broker-dealer, investment advisor or an exchange. Betoken uses partner protocols (Kyber, Compound, bZx, Maker DAO) to power its own ecosystem.</source>
         <target>Betoken 通过开源的智能合约来实现投资与管理的功能。Betoken 不对资产进行保管，只为投资人与管理人提供一个合作的平台。Betoken不是持牌银行，经纪交易商，投资顾问或交易所。 Betoken 使用合作伙伴协议（Kyber，Compound，bZx，Maker DAO）实现自己的生态系统。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="footerDisclaimerText3">
+      <trans-unit id="footerDisclaimerText3" datatype="html">
         <source>💀 This project is in beta. Use at your own risk.</source>
         <target>💀 Betoken 还在 Beta 阶段。使用风险自负。</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerLanguageModalTitle">
+      <trans-unit id="headerLanguageModalTitle" datatype="html">
         <source>Switch to another language</source>
         <target>切换语言</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="modalAriaLabelClose">
+      <trans-unit id="modalAriaLabelClose" datatype="html">
         <source>Close</source>
         <target>关闭</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="headerLanguageModalAriaDescribedby">
+      <trans-unit id="headerLanguageModalAriaDescribedby" datatype="html">
         <source>Switch to another language</source>
         <target>切换语言</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="InvestorlinkToStart">
+      <trans-unit id="InvestorlinkToStart" datatype="html">
         <source>https://betoken.fund/portal/#/start</source>
         <target>https://betoken.fund/portal/zh-Hans/#/start</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
-      <trans-unit id="ManagerlinkToStart">
+      <trans-unit id="ManagerlinkToStart" datatype="html">
         <source>https://betoken.fund/portal/#/start-managing</source>
         <target>https://betoken.fund/portal/zh-Hans/#/start-managing</target>
+        <note priority="1" from="meaning">ng2.template</note>
+      </trans-unit>
+      <trans-unit id="homeManagementFee" datatype="html">
+        <source>Management fee</source>
+        <target>管理费</target>
+        <note priority="1" from="meaning">ng2.template</note>
+      </trans-unit>
+      <trans-unit id="homePerformanceFee" datatype="html">
+        <source>Performance fee</source>
+        <target>收益费</target>
+        <note priority="1" from="meaning">ng2.template</note>
+      </trans-unit>
+      <trans-unit id="homeRedemptionFee" datatype="html">
+        <source>Redemption fee</source>
+        <target>取出费</target>
+        <note priority="1" from="meaning">ng2.template</note>
+      </trans-unit>
+      <trans-unit id="homeLockupPeriod" datatype="html">
+        <source>Lock-up period</source>
+        <target>存期</target>
+        <note priority="1" from="meaning">ng2.template</note>
       </trans-unit>
     </body>
   </file>
